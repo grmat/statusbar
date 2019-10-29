@@ -51,11 +51,19 @@ A lot of aliased ligatures here. The font will likely get a higher resolution (m
 
 ## Volume
 
-**TBD**
+| icon                                       | ligature     | alternative ligatures (range_start..range_end) | unicode (hex) |
+| ---                                        | ---          | ---                                            | ---           |
+| <img width="64" src="icons/volume-0.svg"/> | volume_bar_0 | volume_off, volume_mute, volume_0(%)?          | 0xF00D0       |
+| <img width="64" src="icons/volume-1.svg"/> | volume_bar_1 | volume_1..volume_33(%)?                        | 0xF00D1       |
+| <img width="64" src="icons/volume-2.svg"/> | volume_bar_2 | volume_34..volume_66(%)?                       | 0xF00D2       |
+| <img width="64" src="icons/volume-3.svg"/> | volume_bar_3 | volume_67..volume_100(%)?                      | 0xF00D3       |
 
 ## Microphone
 
-**TBD**
+| icon                                      | ligature | alternative ligatures (range_start..range_end) | unicode (hex) |
+| ---                                       | ---      | ---                                            | ---           |
+| <img width="64" src="icons/mic-off.svg"/> | mic_off  | mic_mute                                       | 0xF00E0       |
+| <img width="64" src="icons/mic.svg"/>     | mic      |                                                | 0xF00E1       |
 
 
 # Credits

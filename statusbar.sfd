@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1572312906
-ModificationTime: 1572350388
+ModificationTime: 1572473302
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -40,20 +40,20 @@ Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0" { "'liga' Standard Ligatures 
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033
-Encoding: Custom
+Encoding: ISO8859-1
 Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 25 20
+WinInfo: 0 25 6
 BeginPrivate: 0
 EndPrivate
-BeginChars: 51 51
+BeginChars: 276 58
 
 StartChar: battery_0
-Encoding: 37 983216 0
+Encoding: 256 983216 0
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<91.7125 808.725> 464.062 54.6875<91.7125 808.725>
@@ -110,10 +110,35 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore zero percent
 EndChar
 
 StartChar: battery_0_charging
-Encoding: 38 983232 1
+Encoding: 257 983232 1
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 464.062 54.6875<90.7125 807.725>
@@ -180,7 +205,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore zero 
 EndChar
 
 StartChar: battery_25
-Encoding: 39 983217 2
+Encoding: 258 983217 2
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 287.041> 464.062 54.6875<90.7125 807.725>
@@ -247,10 +272,35 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two e
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two seven
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two six
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two five percent
 EndChar
 
 StartChar: battery_25_charging
-Encoding: 40 983233 3
+Encoding: 259 983233 3
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 287.041> 464.062 54.6875<90.7125 807.725>
@@ -327,7 +377,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two f
 EndChar
 
 StartChar: battery_50
-Encoding: 41 983218 4
+Encoding: 260 983218 4
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 449.15> 464.062 54.6875<90.7125 807.725>
@@ -369,6 +419,31 @@ SplineSet
  425.78125 425 l 2
 EndSplineSet
 Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five zero percent
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven four
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven three
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven two
@@ -397,7 +472,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five 
 EndChar
 
 StartChar: battery_50_charging
-Encoding: 42 983234 5
+Encoding: 261 983234 5
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 390.625 425.781 438.672> 464.062 54.6875<90.7125 807.725>
@@ -474,7 +549,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five 
 EndChar
 
 StartChar: battery_75
-Encoding: 43 983219 6
+Encoding: 262 983219 6
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 611.259> 464.062 54.6875<90.7125 807.725>
@@ -541,10 +616,35 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven seven
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven six
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven five percent
 EndChar
 
 StartChar: battery_75_charging
-Encoding: 44 983235 7
+Encoding: 263 983235 7
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 390.625 515.625 611.259> 464.062 54.6875<90.7125 807.725>
@@ -621,7 +721,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven
 EndChar
 
 StartChar: battery_100
-Encoding: 45 983220 8
+Encoding: 264 983220 8
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 773.369> 464.062 54.6875<90.7125 807.725>
@@ -664,10 +764,11 @@ SplineSet
 EndSplineSet
 Validated: 1
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one zero zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one zero zero percent
 EndChar
 
 StartChar: battery_100_charging
-Encoding: 46 983236 9
+Encoding: 265 983236 9
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 390.625 515.625 773.369> 464.062 54.6875<90.7125 807.725>
@@ -718,10 +819,12 @@ EndSplineSet
 Validated: 1
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one zero zero underscore f u l l
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one zero zero underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one zero zero percent underscore f u l l
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one zero zero percent underscore c h a r g i n g
 EndChar
 
 StartChar: wifi_signal_1
-Encoding: 47 983201 10
+Encoding: 266 983201 10
 Width: 1000
 VWidth: 0
 LayerCount: 2
@@ -772,10 +875,44 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l
 Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore three two
 Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore three three
 Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore b a r underscore one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore zero zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore zero one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore zero two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore zero three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore zero four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore zero five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore zero six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore zero seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore zero eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore zero nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore one zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore one one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore one two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore one three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore one four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore one five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore one six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore one seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore one eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore one nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore two zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore two one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore two two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore two three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore two four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore two five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore two six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore two seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore two eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore two nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore three zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore three one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore three two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore three three percent
 EndChar
 
 StartChar: wifi_signal_2
-Encoding: 48 983202 11
+Encoding: 267 983202 11
 Width: 1000
 VWidth: 0
 HStem: 278.125 109.375<388.58 610.836>
@@ -836,11 +973,44 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l
 Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore six four
 Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore six five
 Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore six six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore three four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore three five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore three six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore three seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore three eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore three nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore four zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore four one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore four two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore four three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore four four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore four five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore four six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore four seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore four eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore four nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore five zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore five one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore five two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore five three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore five four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore five five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore five six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore five seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore five eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore five nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore six zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore six one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore six two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore six three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore six four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore six five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore six six percent
 Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore b a r underscore two
 EndChar
 
 StartChar: wifi_signal_3
-Encoding: 49 983203 12
+Encoding: 268 983203 12
 Width: 1000
 VWidth: 0
 HStem: 278.125 109.375<388.58 610.836> 502.734 109.766<350.409 649.794>
@@ -915,11 +1085,45 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l
 Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore nine eight
 Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore nine nine
 Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore one zero zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore six seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore six eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore six nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore seven zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore seven one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore seven two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore seven three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore seven four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore seven five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore seven six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore seven seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore seven eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore seven nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore eight zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore eight one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore eight two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore eight three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore eight four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore eight five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore eight six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore eight seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore eight eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore eight nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore nine zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore nine one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore nine two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore nine three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore nine four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore nine five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore nine six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore nine seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore nine eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore nine nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l underscore one zero zero percent
 Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore b a r underscore three
 EndChar
 
 StartChar: a
-Encoding: 11 97 13
+Encoding: 97 97 13
 Width: 1000
 VWidth: 0
 Flags: W
@@ -929,7 +1133,7 @@ Validated: 1
 EndChar
 
 StartChar: b
-Encoding: 12 98 14
+Encoding: 98 98 14
 Width: 1000
 VWidth: 0
 Flags: W
@@ -939,7 +1143,7 @@ Validated: 1
 EndChar
 
 StartChar: c
-Encoding: 13 99 15
+Encoding: 99 99 15
 Width: 1000
 VWidth: 0
 Flags: W
@@ -949,7 +1153,7 @@ Validated: 1
 EndChar
 
 StartChar: d
-Encoding: 14 100 16
+Encoding: 100 100 16
 Width: 1000
 VWidth: 0
 Flags: W
@@ -959,7 +1163,7 @@ Validated: 1
 EndChar
 
 StartChar: e
-Encoding: 15 101 17
+Encoding: 101 101 17
 Width: 1000
 VWidth: 0
 Flags: W
@@ -969,7 +1173,7 @@ Validated: 1
 EndChar
 
 StartChar: f
-Encoding: 16 102 18
+Encoding: 102 102 18
 Width: 1000
 VWidth: 0
 Flags: W
@@ -979,7 +1183,7 @@ Validated: 1
 EndChar
 
 StartChar: g
-Encoding: 17 103 19
+Encoding: 103 103 19
 Width: 1000
 VWidth: 0
 Flags: W
@@ -989,7 +1193,7 @@ Validated: 1
 EndChar
 
 StartChar: h
-Encoding: 18 104 20
+Encoding: 104 104 20
 Width: 1000
 VWidth: 0
 Flags: W
@@ -999,7 +1203,7 @@ Validated: 1
 EndChar
 
 StartChar: i
-Encoding: 19 105 21
+Encoding: 105 105 21
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1009,7 +1213,7 @@ Validated: 1
 EndChar
 
 StartChar: j
-Encoding: 20 106 22
+Encoding: 106 106 22
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1019,7 +1223,7 @@ Validated: 1
 EndChar
 
 StartChar: k
-Encoding: 21 107 23
+Encoding: 107 107 23
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1029,7 +1233,7 @@ Validated: 1
 EndChar
 
 StartChar: l
-Encoding: 22 108 24
+Encoding: 108 108 24
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1039,7 +1243,7 @@ Validated: 1
 EndChar
 
 StartChar: m
-Encoding: 23 109 25
+Encoding: 109 109 25
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1049,7 +1253,7 @@ Validated: 1
 EndChar
 
 StartChar: n
-Encoding: 24 110 26
+Encoding: 110 110 26
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1059,7 +1263,7 @@ Validated: 1
 EndChar
 
 StartChar: o
-Encoding: 25 111 27
+Encoding: 111 111 27
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1069,7 +1273,7 @@ Validated: 1
 EndChar
 
 StartChar: p
-Encoding: 26 112 28
+Encoding: 112 112 28
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1079,7 +1283,7 @@ Validated: 1
 EndChar
 
 StartChar: q
-Encoding: 27 113 29
+Encoding: 113 113 29
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1089,7 +1293,7 @@ Validated: 1
 EndChar
 
 StartChar: r
-Encoding: 28 114 30
+Encoding: 114 114 30
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1099,7 +1303,7 @@ Validated: 1
 EndChar
 
 StartChar: s
-Encoding: 29 115 31
+Encoding: 115 115 31
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1109,7 +1313,7 @@ Validated: 1
 EndChar
 
 StartChar: t
-Encoding: 30 116 32
+Encoding: 116 116 32
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1119,7 +1323,7 @@ Validated: 1
 EndChar
 
 StartChar: u
-Encoding: 31 117 33
+Encoding: 117 117 33
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1129,7 +1333,7 @@ Validated: 1
 EndChar
 
 StartChar: v
-Encoding: 32 118 34
+Encoding: 118 118 34
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1139,7 +1343,7 @@ Validated: 1
 EndChar
 
 StartChar: w
-Encoding: 33 119 35
+Encoding: 119 119 35
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1149,7 +1353,7 @@ Validated: 1
 EndChar
 
 StartChar: x
-Encoding: 34 120 36
+Encoding: 120 120 36
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1159,7 +1363,7 @@ Validated: 1
 EndChar
 
 StartChar: y
-Encoding: 35 121 37
+Encoding: 121 121 37
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1169,7 +1373,7 @@ Validated: 1
 EndChar
 
 StartChar: z
-Encoding: 36 122 38
+Encoding: 122 122 38
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1179,7 +1383,7 @@ Validated: 1
 EndChar
 
 StartChar: zero
-Encoding: 0 48 39
+Encoding: 48 48 39
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1189,7 +1393,7 @@ Validated: 1
 EndChar
 
 StartChar: one
-Encoding: 1 49 40
+Encoding: 49 49 40
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1199,7 +1403,7 @@ Validated: 1
 EndChar
 
 StartChar: two
-Encoding: 2 50 41
+Encoding: 50 50 41
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1209,7 +1413,7 @@ Validated: 1
 EndChar
 
 StartChar: three
-Encoding: 3 51 42
+Encoding: 51 51 42
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1219,7 +1423,7 @@ Validated: 1
 EndChar
 
 StartChar: four
-Encoding: 4 52 43
+Encoding: 52 52 43
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1229,7 +1433,7 @@ Validated: 1
 EndChar
 
 StartChar: five
-Encoding: 5 53 44
+Encoding: 53 53 44
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1239,7 +1443,7 @@ Validated: 1
 EndChar
 
 StartChar: six
-Encoding: 6 54 45
+Encoding: 54 54 45
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1249,7 +1453,7 @@ Validated: 1
 EndChar
 
 StartChar: seven
-Encoding: 7 55 46
+Encoding: 55 55 46
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1259,7 +1463,7 @@ Validated: 1
 EndChar
 
 StartChar: eight
-Encoding: 8 56 47
+Encoding: 56 56 47
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1269,7 +1473,7 @@ Validated: 1
 EndChar
 
 StartChar: nine
-Encoding: 9 57 48
+Encoding: 57 57 48
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1279,7 +1483,7 @@ Validated: 1
 EndChar
 
 StartChar: underscore
-Encoding: 10 95 49
+Encoding: 95 95 49
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1289,7 +1493,7 @@ Validated: 1
 EndChar
 
 StartChar: wifi_off
-Encoding: 50 983200 50
+Encoding: 269 983200 50
 Width: 1000
 VWidth: 0
 HStem: 237.305 125.195<616.207 905.939> 251.367 99.2188<188.708 455.316>
@@ -1333,8 +1537,504 @@ SplineSet
  761.131835938 361.9140625 l 2
  767.381835938 362.3046875 789.647460938 362.5 796.288085938 362.5 c 0x80
 EndSplineSet
-Validated: 524289
+Validated: 1
 Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore o f f
+EndChar
+
+StartChar: mic
+Encoding: 270 983265 51
+Width: 1000
+VWidth: 0
+HStem: -106.25 54.6875<375.558 472.656 527.344 624.442> 49.8047 52.9297<420.579 472.656 527.344 579.421> 143.75 562.5<430.237 569.763>
+VStem: 285.156 54.6875<185.431 424.442> 375 250<-105.692 -52.1206 198.987 651.013> 472.656 54.6875<-51.5625 53.2191> 660.156 54.6875<185.431 424.442>
+LayerCount: 2
+Fore
+SplineSet
+500 143.75 m 0xfa
+ 431.25 143.75 375 200 375 268.75 c 2
+ 375 581.25 l 2
+ 375 650 431.25 706.25 500 706.25 c 0
+ 568.75 706.25 625 650 625 581.25 c 2
+ 625 268.75 l 2
+ 625 200 568.75 143.75 500 143.75 c 0xfa
+687.5 425 m 0
+ 702.5390625 425 714.84375 412.6953125 714.84375 397.65625 c 2
+ 714.84375 262.890625 l 2
+ 714.84375 153.7109375 633.0078125 63.28125 527.34375 49.8046875 c 1
+ 527.34375 -51.5625 l 1xf6
+ 597.65625 -51.5625 l 2
+ 612.6953125 -51.5625 625 -63.8671875 625 -78.90625 c 0
+ 625 -93.9453125 612.6953125 -106.25 597.65625 -106.25 c 2
+ 402.34375 -106.25 l 2
+ 387.3046875 -106.25 375 -93.9453125 375 -78.90625 c 0xfa
+ 375 -63.8671875 387.3046875 -51.5625 402.34375 -51.5625 c 2
+ 472.65625 -51.5625 l 1
+ 472.65625 49.8046875 l 1xf6
+ 366.9921875 63.28125 285.15625 153.7109375 285.15625 262.890625 c 2
+ 285.15625 397.65625 l 2
+ 285.15625 412.6953125 297.4609375 425 312.5 425 c 0
+ 327.5390625 425 339.84375 412.6953125 339.84375 397.65625 c 2
+ 339.84375 262.890625 l 2
+ 339.84375 174.609375 411.71875 102.734375 500 102.734375 c 0
+ 588.28125 102.734375 660.15625 174.609375 660.15625 262.890625 c 2
+ 660.15625 397.65625 l 2
+ 660.15625 412.6953125 672.4609375 425 687.5 425 c 0
+EndSplineSet
+Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" m i c
+EndChar
+
+StartChar: mic_mute
+Encoding: 271 983264 52
+Width: 1000
+VWidth: 0
+HStem: -106.25 54.6875<375.557 472.655 527.343 624.441>
+VStem: 285.155 54.6875<185.431 424.442> 472.655 54.6875<-51.5625 53.2191> 660.155 54.6875<182.76 424.442>
+CounterMasks: 1 70
+LayerCount: 2
+Fore
+SplineSet
+722.264648438 -106.25 m 0
+ 712.694335938 -106.25 703.319335938 -101.3671875 698.241210938 -92.578125 c 2
+ 253.709960938 664.6484375 l 2
+ 245.897460938 677.734375 250.389648438 694.7265625 263.670898438 702.34375 c 0
+ 276.952148438 709.9609375 293.944335938 705.6640625 301.756835938 692.3828125 c 2
+ 746.288085938 -64.84375 l 2
+ 754.100585938 -77.9296875 749.608398438 -94.921875 736.327148438 -102.5390625 c 0
+ 731.834960938 -105.078125 726.952148438 -106.25 722.264648438 -106.25 c 0
+624.999023438 268.75 m 2
+ 624.999023438 251.5625 621.483398438 235.15625 615.233398438 220.3125 c 1
+ 381.053710938 619.3359375 l 1
+ 397.264648438 669.53125 444.530273438 706.25 499.999023438 706.25 c 0
+ 568.749023438 706.25 624.999023438 650 624.999023438 581.25 c 2
+ 624.999023438 268.75 l 2
+374.999023438 268.75 m 2
+ 374.999023438 396.484375 l 1
+ 522.069335938 145.703125 l 1
+ 514.842773438 144.53125 507.616210938 143.75 499.999023438 143.75 c 0
+ 431.249023438 143.75 374.999023438 200 374.999023438 268.75 c 2
+714.842773438 262.890625 m 2
+ 714.842773438 212.5 697.459960938 166.2109375 668.358398438 129.6875 c 1
+ 637.889648438 181.640625 l 1
+ 651.952148438 205.46875 660.155273438 233.203125 660.155273438 262.890625 c 2
+ 660.155273438 397.65625 l 2
+ 660.155273438 412.6953125 672.459960938 425 687.499023438 425 c 0
+ 702.538085938 425 714.842773438 412.6953125 714.842773438 397.65625 c 2
+ 714.842773438 262.890625 l 2
+499.999023438 102.734375 m 0
+ 515.233398438 102.734375 529.881835938 104.8828125 543.749023438 108.984375 c 1
+ 572.069335938 60.546875 l 1
+ 557.811523438 55.46875 542.772460938 51.7578125 527.342773438 49.8046875 c 1
+ 527.342773438 -51.5625 l 1
+ 597.655273438 -51.5625 l 2
+ 612.694335938 -51.5625 624.999023438 -63.8671875 624.999023438 -78.90625 c 0
+ 624.999023438 -93.9453125 612.694335938 -106.25 597.655273438 -106.25 c 2
+ 402.342773438 -106.25 l 2
+ 387.303710938 -106.25 374.999023438 -93.9453125 374.999023438 -78.90625 c 0
+ 374.999023438 -63.8671875 387.303710938 -51.5625 402.342773438 -51.5625 c 2
+ 472.655273438 -51.5625 l 1
+ 472.655273438 49.8046875 l 1
+ 366.991210938 63.28125 285.155273438 153.7109375 285.155273438 262.890625 c 2
+ 285.155273438 397.65625 l 2
+ 285.155273438 412.6953125 297.459960938 425 312.499023438 425 c 0
+ 327.538085938 425 339.842773438 412.6953125 339.842773438 397.65625 c 2
+ 339.842773438 262.890625 l 2
+ 339.842773438 174.609375 411.717773438 102.734375 499.999023438 102.734375 c 0
+EndSplineSet
+Validated: 33
+Ligature2: "'liga' Standard Ligatures lookup 0-1" m i c underscore m u t e
+EndChar
+
+StartChar: volume_mute
+Encoding: 272 983248 53
+Width: 1000
+VWidth: 0
+HStem: 190.625 218.749<345.161 478.125>
+VStem: 343.75 312.5<192.036 407.963>
+LayerCount: 2
+Fore
+SplineSet
+638.4765625 515.819335938 m 0
+ 649.4140625 510.545898438 656.25 499.608398438 656.25 487.499023438 c 2
+ 656.25 112.5 l 2
+ 656.25 100.5859375 649.4140625 89.6484375 638.4765625 84.375 c 0
+ 634.1796875 82.2265625 629.4921875 81.25 625 81.25 c 0
+ 618.1640625 81.25 611.1328125 83.59375 605.46875 88.0859375 c 2
+ 478.125 190.625 l 1
+ 375 190.625 l 2
+ 357.8125 190.625 343.75 204.6875 343.75 221.875 c 2
+ 343.75 378.124023438 l 2
+ 343.75 395.311523438 357.8125 409.374023438 375 409.374023438 c 2
+ 478.125 409.374023438 l 1
+ 605.46875 512.108398438 l 2
+ 611.1328125 516.600585938 617.96875 518.944335938 625 518.944335938 c 0
+ 629.4921875 518.944335938 634.1796875 517.967773438 638.4765625 515.819335938 c 0
+EndSplineSet
+Validated: 1
+LCarets2: 10 0 0 0 0 0 0 0 0 0 0
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore b a r underscore zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore o f f
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore m u t e
+EndChar
+
+StartChar: volume_1
+Encoding: 273 983249 54
+Width: 1000
+VWidth: 0
+HStem: 190.625 218.749<254.536 387.5>
+VStem: 253.125 312.5<192.036 407.963> 700.194 46.6797<219.85 380.034>
+LayerCount: 2
+Fore
+SplineSet
+547.8515625 515.819335938 m 0
+ 558.7890625 510.545898438 565.625 499.608398438 565.625 487.499023438 c 2
+ 565.625 112.5 l 2
+ 565.625 100.5859375 558.7890625 89.6484375 547.8515625 84.375 c 0
+ 543.5546875 82.2265625 538.8671875 81.25 534.375 81.25 c 0
+ 527.5390625 81.25 520.5078125 83.59375 514.84375 88.0859375 c 2
+ 387.5 190.625 l 1
+ 284.375 190.625 l 2
+ 267.1875 190.625 253.125 204.6875 253.125 221.875 c 2
+ 253.125 378.124023438 l 2
+ 253.125 395.311523438 267.1875 409.374023438 284.375 409.374023438 c 2
+ 387.5 409.374023438 l 1
+ 514.84375 512.108398438 l 2
+ 520.5078125 516.600585938 527.34375 518.944335938 534.375 518.944335938 c 0
+ 538.8671875 518.944335938 543.5546875 517.967773438 547.8515625 515.819335938 c 0
+688.670898438 443.553710938 m 0
+ 726.366210938 405.272460938 747.069335938 354.296875 746.874023438 299.8046875 c 0
+ 746.874023438 245.5078125 726.170898438 194.7265625 688.475585938 156.4453125 c 0
+ 683.983398438 151.7578125 677.928710938 149.4140625 671.874023438 149.4140625 c 0
+ 666.014648438 149.4140625 659.959960938 151.7578125 655.467773438 156.25 c 0
+ 646.288085938 165.4296875 646.092773438 180.2734375 655.272460938 189.453125 c 0
+ 684.178710938 218.9453125 700.194335938 258.203125 700.194335938 300 c 0
+ 700.194335938 341.9921875 684.178710938 381.249023438 655.272460938 410.545898438 c 0
+ 646.092773438 419.725585938 646.288085938 434.569335938 655.467773438 443.749023438 c 0
+ 664.647460938 452.928710938 679.491210938 452.733398438 688.670898438 443.553710938 c 0
+EndSplineSet
+Validated: 33
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore b a r underscore one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore two zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore two one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore two two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore two three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore two four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore two five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore two six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore two seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore two eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore two nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore two zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore two one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore two two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore two three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore two four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore two five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore two six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore two seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore two eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore two nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three three percent
+EndChar
+
+StartChar: volume_2
+Encoding: 274 983250 55
+Width: 1000
+VWidth: 0
+HStem: 190.625 218.749<188.52 321.484>
+VStem: 187.109 312.5<192.036 407.963> 634.18 46.6797<219.85 380.034> 766.016 46.875<192.775 407.012>
+LayerCount: 2
+Fore
+SplineSet
+481.8359375 515.819335938 m 0
+ 492.7734375 510.545898438 499.609375 499.608398438 499.609375 487.499023438 c 2
+ 499.609375 112.5 l 2
+ 499.609375 100.5859375 492.7734375 89.6484375 481.8359375 84.375 c 0
+ 477.5390625 82.2265625 472.8515625 81.25 468.359375 81.25 c 0
+ 461.5234375 81.25 454.4921875 83.59375 448.828125 88.0859375 c 2
+ 321.484375 190.625 l 1
+ 218.359375 190.625 l 2
+ 201.171875 190.625 187.109375 204.6875 187.109375 221.875 c 2
+ 187.109375 378.124023438 l 2
+ 187.109375 395.311523438 201.171875 409.374023438 218.359375 409.374023438 c 2
+ 321.484375 409.374023438 l 1
+ 448.828125 512.108398438 l 2
+ 454.4921875 516.600585938 461.328125 518.944335938 468.359375 518.944335938 c 0
+ 472.8515625 518.944335938 477.5390625 517.967773438 481.8359375 515.819335938 c 0
+812.890625 300 m 0
+ 812.890625 215.0390625 780.2734375 135.3515625 721.2890625 75.1953125 c 0
+ 716.796875 70.5078125 710.7421875 68.1640625 704.6875 68.1640625 c 0
+ 698.828125 68.1640625 692.7734375 70.5078125 688.28125 75 c 0
+ 679.1015625 84.1796875 678.90625 99.0234375 688.0859375 108.203125 c 0
+ 738.28125 159.1796875 766.015625 227.1484375 766.015625 299.8046875 c 0
+ 766.015625 372.4609375 738.28125 440.428710938 688.0859375 491.405273438 c 0
+ 678.90625 500.584960938 679.1015625 515.428710938 688.28125 524.608398438 c 0
+ 697.4609375 533.788085938 712.3046875 533.592773438 721.484375 524.413085938 c 0
+ 780.46875 464.647460938 812.890625 384.959960938 812.890625 300 c 0
+622.65625 443.553710938 m 0
+ 660.3515625 405.272460938 681.0546875 354.296875 680.859375 299.8046875 c 0
+ 680.859375 245.5078125 660.15625 194.7265625 622.4609375 156.4453125 c 0
+ 617.96875 151.7578125 611.9140625 149.4140625 605.859375 149.4140625 c 0
+ 600 149.4140625 593.9453125 151.7578125 589.453125 156.25 c 0
+ 580.2734375 165.4296875 580.078125 180.2734375 589.2578125 189.453125 c 0
+ 618.1640625 218.9453125 634.1796875 258.203125 634.1796875 300 c 0
+ 634.1796875 341.9921875 618.1640625 381.249023438 589.2578125 410.545898438 c 0
+ 580.078125 419.725585938 580.2734375 434.569335938 589.453125 443.749023438 c 0
+ 598.6328125 452.928710938 613.4765625 452.733398438 622.65625 443.553710938 c 0
+EndSplineSet
+Validated: 33
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore five nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore five eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore five seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore five six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore five five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore five four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore five three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore five two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore five one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore five zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore four nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore four eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore four seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore four six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore four five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore four four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore four three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore four two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore four one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore four zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore b a r underscore two
+
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore five nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore five eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore five seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore five six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore five five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore five four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore five three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore five two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore five one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore five zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore four nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore four eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore four seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore four six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore four five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore four four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore four three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore four two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore four one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore four zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three four percent
+EndChar
+
+StartChar: volume_3
+Encoding: 275 983251 56
+Width: 1000
+VWidth: 0
+HStem: 190.625 218.749<127.388 260.352>
+VStem: 125.977 312.5<192.036 407.963> 573.047 46.6797<219.85 380.034> 704.883 46.875<192.775 407.012> 826.953 47.0703<174.035 425.938>
+LayerCount: 2
+Fore
+SplineSet
+420.703125 515.819335938 m 0
+ 431.640625 510.545898438 438.4765625 499.608398438 438.4765625 487.499023438 c 2
+ 438.4765625 112.5 l 2
+ 438.4765625 100.5859375 431.640625 89.6484375 420.703125 84.375 c 0
+ 416.40625 82.2265625 411.71875 81.25 407.2265625 81.25 c 0
+ 400.390625 81.25 393.359375 83.59375 387.6953125 88.0859375 c 2
+ 260.3515625 190.625 l 1
+ 157.2265625 190.625 l 2
+ 140.0390625 190.625 125.9765625 204.6875 125.9765625 221.875 c 2
+ 125.9765625 378.124023438 l 2
+ 125.9765625 395.311523438 140.0390625 409.374023438 157.2265625 409.374023438 c 2
+ 260.3515625 409.374023438 l 1
+ 387.6953125 512.108398438 l 2
+ 393.359375 516.600585938 400.1953125 518.944335938 407.2265625 518.944335938 c 0
+ 411.71875 518.944335938 416.40625 517.967773438 420.703125 515.819335938 c 0
+874.0234375 300 m 0
+ 874.0234375 184.1796875 828.7109375 75.5859375 746.09375 -5.6640625 c 0
+ 741.6015625 -10.15625 735.546875 -12.5 729.6875 -12.5 c 0
+ 723.6328125 -12.5 717.578125 -10.15625 713.0859375 -5.46875 c 0
+ 703.90625 3.7109375 704.1015625 18.5546875 713.28125 27.734375 c 0
+ 786.5234375 100.1953125 826.953125 196.875 826.953125 300 c 0
+ 826.953125 403.124023438 786.71875 499.803710938 713.28125 572.264648438 c 0
+ 704.1015625 581.444335938 703.90625 596.288085938 713.0859375 605.467773438 c 0
+ 722.265625 614.647460938 737.109375 614.842773438 746.2890625 605.663085938 c 0
+ 828.7109375 524.217773438 874.0234375 415.819335938 874.0234375 300 c 0
+751.7578125 300 m 0
+ 751.7578125 215.0390625 719.140625 135.3515625 660.15625 75.1953125 c 0
+ 655.6640625 70.5078125 649.609375 68.1640625 643.5546875 68.1640625 c 0
+ 637.6953125 68.1640625 631.640625 70.5078125 627.1484375 75 c 0
+ 617.96875 84.1796875 617.7734375 99.0234375 626.953125 108.203125 c 0
+ 677.1484375 159.1796875 704.8828125 227.1484375 704.8828125 299.8046875 c 0
+ 704.8828125 372.4609375 677.1484375 440.428710938 626.953125 491.405273438 c 0
+ 617.7734375 500.584960938 617.96875 515.428710938 627.1484375 524.608398438 c 0
+ 636.328125 533.788085938 651.171875 533.592773438 660.3515625 524.413085938 c 0
+ 719.3359375 464.647460938 751.7578125 384.959960938 751.7578125 300 c 0
+561.5234375 443.553710938 m 0
+ 599.21875 405.272460938 619.921875 354.296875 619.7265625 299.8046875 c 0
+ 619.7265625 245.5078125 599.0234375 194.7265625 561.328125 156.4453125 c 0
+ 556.8359375 151.7578125 550.78125 149.4140625 544.7265625 149.4140625 c 0
+ 538.8671875 149.4140625 532.8125 151.7578125 528.3203125 156.25 c 0
+ 519.140625 165.4296875 518.9453125 180.2734375 528.125 189.453125 c 0
+ 557.03125 218.9453125 573.046875 258.203125 573.046875 300 c 0
+ 573.046875 341.9921875 557.03125 381.249023438 528.125 410.545898438 c 0
+ 518.9453125 419.725585938 519.140625 434.569335938 528.3203125 443.749023438 c 0
+ 537.5 452.928710938 552.34375 452.733398438 561.5234375 443.553710938 c 0
+EndSplineSet
+Validated: 33
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore b a r underscore three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore seven zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore seven one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore seven two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore seven three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore seven four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore seven five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore seven six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore seven seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore seven eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore seven nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore eight zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore eight one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore eight two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore eight three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore eight four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore eight five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore eight six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore eight seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore eight eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore eight nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore nine zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore nine one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore nine two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore nine three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore nine four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore nine five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore nine six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore nine seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore nine eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore nine nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore seven zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore seven one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore seven two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore seven three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore seven four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore seven five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore seven six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore seven seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore seven eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore seven nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore eight zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore eight one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore eight two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore eight three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore eight four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore eight five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore eight six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore eight seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore eight eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore eight nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore nine zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore nine one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore nine two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore nine three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore nine four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore nine five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore nine six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore nine seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore nine eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore nine nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one zero zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one zero zero
+EndChar
+
+StartChar: percent
+Encoding: 37 37 57
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
 EndChar
 EndChars
 EndSplineFont
