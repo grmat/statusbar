@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1572312906
-ModificationTime: 1572473302
+ModificationTime: 1572571935
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -47,10 +47,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 25 6
+WinInfo: 0 38 14
 BeginPrivate: 0
 EndPrivate
-BeginChars: 276 58
+BeginChars: 288 70
 
 StartChar: battery_0
 Encoding: 256 983216 0
@@ -85,56 +85,26 @@ SplineSet
  907.25 400.390625 l 1
 EndSplineSet
 Validated: 1
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two four
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two three
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two two
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two one
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two zero
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one nine
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one eight
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one seven
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one six
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one five
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one four
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one three
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one two
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one one
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one zero
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore zero
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two four percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two three percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two two percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two one percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two zero percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one nine percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one eight percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one seven percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one six percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one five percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one four percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one three percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one two percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one one percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one zero percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine percent
 EndChar
 
 StartChar: battery_0_charging
@@ -177,40 +147,34 @@ SplineSet
  427.34375 198.4375 l 1
 EndSplineSet
 Validated: 1
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two four underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two three underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two two underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two one underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two zero underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one nine underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one eight underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one seven underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one six underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one five underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one four underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one three underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one two underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one one underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one zero underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one underscore c h a r g i n g
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore zero underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore zero percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine percent underscore c h a r g i n g
 EndChar
 
-StartChar: battery_25
+StartChar: battery_10
 Encoding: 258 983217 2
 Width: 1000
 VWidth: 0
-HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 287.041> 464.062 54.6875<90.7125 807.725>
-VStem: 31.25 54.6875<140.713 459.287> 125 162.109<175.069 424.931> 812.5 54.6875<140.713 459.287> 906.25 62.5<260.467 339.533>
-CounterMasks: 1 e0
+HStem: 81.25 54.6875<90.7125 807.725> 464.062 54.6875<90.7125 807.725>
+VStem: 31.25 54.6875<140.713 459.287> 125 64.8438<175.069 424.931> 812.5 54.6875<140.713 459.287> 906.25 62.5<260.467 339.533>
 LayerCount: 2
 Fore
 SplineSet
@@ -236,76 +200,45 @@ SplineSet
  937.5 400.390625 968.75 346.2890625 968.75 300 c 0
  968.75 253.7109375 937.5 199.609375 906.25 199.609375 c 1
  906.25 400.390625 l 1
-263.671875 425 m 2
- 276.5625 425 287.109375 414.453125 287.109375 401.5625 c 2
- 287.109375 198.4375 l 2
- 287.109375 185.546875 276.5625 175 263.671875 175 c 2
+166.40625 425 m 2
+ 179.296875 425 189.84375 414.453125 189.84375 401.5625 c 2
+ 189.84375 198.4375 l 2
+ 189.84375 185.546875 179.296875 175 166.40625 175 c 2
  148.4375 175 l 2
  135.546875 175 125 185.546875 125 198.4375 c 2
  125 401.5625 l 2
  125 414.453125 135.546875 425 148.4375 425 c 2
- 263.671875 425 l 2
+ 166.40625 425 l 2
 EndSplineSet
 Validated: 1
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four nine
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four eight
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four seven
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four six
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four five
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four four
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four three
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four two
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four one
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four zero
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three nine
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three eight
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three seven
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three six
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three five
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three four
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three three
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three two
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three one
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three zero
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two nine
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two eight
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two seven
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two six
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two five
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four nine percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four eight percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four seven percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four six percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four five percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four four percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four three percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four two percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four one percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four zero percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three nine percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three eight percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three seven percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three six percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three five percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three four percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three three percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three two percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three one percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three zero percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two nine percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two eight percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two seven percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two six percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one nine percent
 EndChar
 
-StartChar: battery_25_charging
+StartChar: battery_10_charging
 Encoding: 259 983233 3
 Width: 1000
 VWidth: 0
-HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 287.041> 464.062 54.6875<90.7125 807.725>
-VStem: 31.25 54.6875<140.713 459.287> 125 162.109<175.069 424.931> 812.5 54.6875<140.713 459.287> 906.25 62.5<260.467 339.533>
-CounterMasks: 1 e0
+HStem: 81.25 54.6875<90.7125 807.725> 464.062 54.6875<90.7125 807.725>
+VStem: 31.25 54.6875<140.713 459.287> 125 64.8438<175.069 424.931> 812.5 54.6875<140.713 459.287> 906.25 62.5<260.467 339.533>
 LayerCount: 2
 Fore
 SplineSet
@@ -331,15 +264,15 @@ SplineSet
  937.5 400.390625 968.75 346.2890625 968.75 300 c 0
  968.75 253.7109375 937.5 199.609375 906.25 199.609375 c 1
  906.25 400.390625 l 1
-263.671875 425 m 2
- 276.5625 425 287.109375 414.453125 287.109375 401.5625 c 2
- 287.109375 198.4375 l 2
- 287.109375 185.546875 276.5625 175 263.671875 175 c 2
+166.40625 425 m 2
+ 179.296875 425 189.84375 414.453125 189.84375 401.5625 c 2
+ 189.84375 198.4375 l 2
+ 189.84375 185.546875 179.296875 175 166.40625 175 c 2
  148.4375 175 l 2
  135.546875 175 125 185.546875 125 198.4375 c 2
  125 401.5625 l 2
  125 414.453125 135.546875 425 148.4375 425 c 2
- 263.671875 425 l 2
+ 166.40625 425 l 2
 427.34375 198.4375 m 1
  443.75 282.421875 l 1
  390.625 282.421875 l 1
@@ -349,35 +282,30 @@ SplineSet
  427.34375 198.4375 l 1
 EndSplineSet
 Validated: 1
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four nine underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four eight underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four seven underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four six underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four five underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four four underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four three underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four two underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four one underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four zero underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three nine underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three eight underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three seven underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three six underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three five underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three four underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three three underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three two underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three one underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three zero underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two nine underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two eight underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two seven underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two six underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two five underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one zero underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one one underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one two underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one three underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one four underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one five underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one six underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one seven underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one eight underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one nine underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one zero percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one one percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one two percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one three percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one four percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one five percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one six percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one seven percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one eight percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one nine percent underscore c h a r g i n g
 EndChar
 
 StartChar: battery_50
-Encoding: 260 983218 4
+Encoding: 260 983221 4
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 449.15> 464.062 54.6875<90.7125 807.725>
@@ -419,60 +347,30 @@ SplineSet
  425.78125 425 l 2
 EndSplineSet
 Validated: 1
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven four percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven three percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven two percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven one percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven zero percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six nine percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six eight percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six seven percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six six percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six five percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six four percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six three percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six two percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six one percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six zero percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five nine percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five eight percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five seven percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five six percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five five percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five four percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five three percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five two percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five one percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five zero percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven four
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven three
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven two
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven one
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven zero
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six nine
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six eight
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six seven
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six six
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six five
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six four
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six three
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six two
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six one
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six zero
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five nine
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five eight
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five seven
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five six
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five five
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five four
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five three
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five two
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five one
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five nine percent
 EndChar
 
 StartChar: battery_50_charging
-Encoding: 261 983234 5
+Encoding: 261 983237 5
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 390.625 425.781 438.672> 464.062 54.6875<90.7125 807.725>
@@ -520,40 +418,35 @@ SplineSet
  443.75 282.421875 l 1
  427.34375 198.4375 l 1
 EndSplineSet
-Validated: 5
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven four underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven three underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven two underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven one underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven zero underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six nine underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six eight underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six seven underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six six underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six five underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six four underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six three underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six two underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six one underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six zero underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five nine underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five eight underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five seven underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five six underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five five underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five four underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five three underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five two underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five one underscore c h a r g i n g
+Validated: 1
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five zero underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five one underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five two underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five three underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five four underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five five underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five six underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five seven underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five eight underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five nine underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five zero percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five one percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five two percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five three percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five four percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five five percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five six percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five seven percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five eight percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five nine percent underscore c h a r g i n g
 EndChar
 
-StartChar: battery_75
+StartChar: battery_30
 Encoding: 262 983219 6
 Width: 1000
 VWidth: 0
-HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 611.259> 464.062 54.6875<90.7125 807.725>
-VStem: 31.25 54.6875<140.713 459.287> 812.5 54.6875<140.713 459.287> 906.25 62.5<260.467 339.533>
+HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 319.463> 464.062 54.6875<90.7125 807.725>
+VStem: 31.25 54.6875<140.713 459.287> 125 194.531<175.069 424.931> 812.5 54.6875<140.713 459.287> 906.25 62.5<260.467 339.533>
 CounterMasks: 1 e0
 LayerCount: 2
 Fore
@@ -580,75 +473,45 @@ SplineSet
  937.5 400.390625 968.75 346.2890625 968.75 300 c 0
  968.75 253.7109375 937.5 199.609375 906.25 199.609375 c 1
  906.25 400.390625 l 1
-587.890625 425 m 2
- 600.78125 425 611.328125 414.453125 611.328125 401.5625 c 2
- 611.328125 198.4375 l 2
- 611.328125 185.546875 600.78125 175 587.890625 175 c 2
+296.09375 425 m 2
+ 308.984375 425 319.53125 414.453125 319.53125 401.5625 c 2
+ 319.53125 198.4375 l 2
+ 319.53125 185.546875 308.984375 175 296.09375 175 c 2
  148.4375 175 l 2
  135.546875 175 125 185.546875 125 198.4375 c 2
  125 401.5625 l 2
  125 414.453125 135.546875 425 148.4375 425 c 2
- 587.890625 425 l 2
+ 296.09375 425 l 2
 EndSplineSet
 Validated: 1
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine nine
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine eight
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine seven
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine six
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine five
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine four
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine three
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine two
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine one
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine zero
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight nine
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight eight
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight seven
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight six
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight five
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight four
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight three
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight two
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight one
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight zero
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven nine
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven eight
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven seven
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven six
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven five
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine nine percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine eight percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine seven percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine six percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine five percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine four percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine three percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine two percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine one percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine zero percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight nine percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight eight percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight seven percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight six percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight five percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight four percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight three percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight two percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight one percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight zero percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven nine percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven eight percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven seven percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven six percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three nine percent
 EndChar
 
-StartChar: battery_75_charging
+StartChar: battery_30_charging
 Encoding: 263 983235 7
 Width: 1000
 VWidth: 0
-HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 390.625 515.625 611.259> 464.062 54.6875<90.7125 807.725>
-VStem: 31.25 54.6875<140.713 459.287> 812.5 54.6875<140.713 459.287> 906.25 62.5<260.467 339.533>
+HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 319.463> 464.062 54.6875<90.7125 807.725>
+VStem: 31.25 54.6875<140.713 459.287> 125 194.531<175.069 424.931> 812.5 54.6875<140.713 459.287> 906.25 62.5<260.467 339.533>
 CounterMasks: 1 e0
 LayerCount: 2
 Fore
@@ -675,53 +538,48 @@ SplineSet
  937.5 400.390625 968.75 346.2890625 968.75 300 c 0
  968.75 253.7109375 937.5 199.609375 906.25 199.609375 c 1
  906.25 400.390625 l 1
-587.890625 425 m 2
- 600.78125 425 611.328125 414.453125 611.328125 401.5625 c 2
- 611.328125 198.4375 l 2
- 611.328125 185.546875 600.78125 175 587.890625 175 c 2
+296.09375 425 m 2
+ 308.984375 425 319.53125 414.453125 319.53125 401.5625 c 2
+ 319.53125 198.4375 l 2
+ 319.53125 185.546875 308.984375 175 296.09375 175 c 2
  148.4375 175 l 2
  135.546875 175 125 185.546875 125 198.4375 c 2
  125 401.5625 l 2
  125 414.453125 135.546875 425 148.4375 425 c 2
- 587.890625 425 l 2
+ 296.09375 425 l 2
 427.34375 198.4375 m 1
- 515.625 317.578125 l 1
- 462.5 317.578125 l 1
- 478.90625 401.5625 l 1
- 390.625 282.421875 l 1
  443.75 282.421875 l 1
+ 390.625 282.421875 l 1
+ 478.90625 401.5625 l 1
+ 462.5 317.578125 l 1
+ 515.625 317.578125 l 1
  427.34375 198.4375 l 1
 EndSplineSet
 Validated: 1
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine nine underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine eight underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine seven underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine six underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine five underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine four underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine three underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine two underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine one underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine zero underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight nine underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight eight underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight seven underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight six underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight five underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight four underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight three underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight two underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight one underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight zero underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven nine underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven eight underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven seven underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven six underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven five underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three zero underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three one underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three two underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three three underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three four underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three five underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three six underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three seven underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three eight underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three nine underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three zero percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three one percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three two percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three three percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three four percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three five percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three six percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three seven percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three eight percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three nine percent underscore c h a r g i n g
 EndChar
 
 StartChar: battery_100
-Encoding: 264 983220 8
+Encoding: 264 983226 8
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 773.369> 464.062 54.6875<90.7125 807.725>
@@ -768,7 +626,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one z
 EndChar
 
 StartChar: battery_100_charging
-Encoding: 265 983236 9
+Encoding: 265 983242 9
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 390.625 515.625 773.369> 464.062 54.6875<90.7125 807.725>
@@ -817,10 +675,10 @@ SplineSet
  427.34375 198.4375 l 1
 EndSplineSet
 Validated: 1
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one zero zero underscore f u l l
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one zero zero underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one zero zero percent underscore f u l l
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one zero zero percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one zero zero underscore f u l l
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one zero zero percent underscore f u l l
 EndChar
 
 StartChar: wifi_signal_1
@@ -1864,7 +1722,6 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three s
 Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three five
 Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three four
 Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore b a r underscore two
-
 Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six six percent
 Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six five percent
 Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore six four percent
@@ -2035,6 +1892,826 @@ Flags: W
 LayerCount: 2
 Fore
 Validated: 1
+EndChar
+
+StartChar: battery_20
+Encoding: 276 983218 58
+Width: 1000
+VWidth: 0
+HStem: 81.25 54.6875<90.7125 807.725> 464.062 54.6875<90.7125 807.725>
+VStem: 31.25 54.6875<140.713 459.287> 125 129.688<175.069 424.931> 812.5 54.6875<140.713 459.287> 906.25 62.5<260.467 339.533>
+LayerCount: 2
+Fore
+SplineSet
+773.4375 518.75 m 2
+ 825 518.75 867.1875 476.5625 867.1875 425 c 2
+ 867.1875 175 l 2
+ 867.1875 123.4375 825 81.25 773.4375 81.25 c 2
+ 125 81.25 l 2
+ 73.4375 81.25 31.25 123.4375 31.25 175 c 2
+ 31.25 425 l 2
+ 31.25 476.5625 73.4375 518.75 125 518.75 c 2
+ 773.4375 518.75 l 2
+812.5 175 m 2
+ 812.5 425 l 2
+ 812.5 446.484375 794.921875 464.0625 773.4375 464.0625 c 2
+ 125 464.0625 l 2
+ 103.515625 464.0625 85.9375 446.484375 85.9375 425 c 2
+ 85.9375 175 l 2
+ 85.9375 153.515625 103.515625 135.9375 125 135.9375 c 2
+ 773.4375 135.9375 l 2
+ 794.921875 135.9375 812.5 153.515625 812.5 175 c 2
+906.25 400.390625 m 1
+ 937.5 400.390625 968.75 346.2890625 968.75 300 c 0
+ 968.75 253.7109375 937.5 199.609375 906.25 199.609375 c 1
+ 906.25 400.390625 l 1
+231.25 425 m 2
+ 244.140625 425 254.6875 414.453125 254.6875 401.5625 c 2
+ 254.6875 198.4375 l 2
+ 254.6875 185.546875 244.140625 175 231.25 175 c 2
+ 148.4375 175 l 2
+ 135.546875 175 125 185.546875 125 198.4375 c 2
+ 125 401.5625 l 2
+ 125 414.453125 135.546875 425 148.4375 425 c 2
+ 231.25 425 l 2
+EndSplineSet
+Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two nine percent
+EndChar
+
+StartChar: battery_20_charging
+Encoding: 277 983234 59
+Width: 1000
+VWidth: 0
+HStem: 81.25 54.6875<90.7125 807.725> 464.062 54.6875<90.7125 807.725>
+VStem: 31.25 54.6875<140.713 459.287> 125 129.688<175.069 424.931> 812.5 54.6875<140.713 459.287> 906.25 62.5<260.467 339.533>
+LayerCount: 2
+Fore
+SplineSet
+773.4375 518.75 m 2
+ 825 518.75 867.1875 476.5625 867.1875 425 c 2
+ 867.1875 175 l 2
+ 867.1875 123.4375 825 81.25 773.4375 81.25 c 2
+ 125 81.25 l 2
+ 73.4375 81.25 31.25 123.4375 31.25 175 c 2
+ 31.25 425 l 2
+ 31.25 476.5625 73.4375 518.75 125 518.75 c 2
+ 773.4375 518.75 l 2
+812.5 175 m 2
+ 812.5 425 l 2
+ 812.5 446.484375 794.921875 464.0625 773.4375 464.0625 c 2
+ 125 464.0625 l 2
+ 103.515625 464.0625 85.9375 446.484375 85.9375 425 c 2
+ 85.9375 175 l 2
+ 85.9375 153.515625 103.515625 135.9375 125 135.9375 c 2
+ 773.4375 135.9375 l 2
+ 794.921875 135.9375 812.5 153.515625 812.5 175 c 2
+906.25 400.390625 m 1
+ 937.5 400.390625 968.75 346.2890625 968.75 300 c 0
+ 968.75 253.7109375 937.5 199.609375 906.25 199.609375 c 1
+ 906.25 400.390625 l 1
+231.25 425 m 2
+ 244.140625 425 254.6875 414.453125 254.6875 401.5625 c 2
+ 254.6875 198.4375 l 2
+ 254.6875 185.546875 244.140625 175 231.25 175 c 2
+ 148.4375 175 l 2
+ 135.546875 175 125 185.546875 125 198.4375 c 2
+ 125 401.5625 l 2
+ 125 414.453125 135.546875 425 148.4375 425 c 2
+ 231.25 425 l 2
+427.34375 198.4375 m 1
+ 443.75 282.421875 l 1
+ 390.625 282.421875 l 1
+ 478.90625 401.5625 l 1
+ 462.5 317.578125 l 1
+ 515.625 317.578125 l 1
+ 427.34375 198.4375 l 1
+EndSplineSet
+Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two zero underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two one underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two two underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two three underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two four underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two five underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two six underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two seven underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two eight underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two nine underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two zero percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two one percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two two percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two three percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two four percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two five percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two six percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two seven percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two eight percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two nine percent underscore c h a r g i n g
+EndChar
+
+StartChar: battery_40
+Encoding: 278 983220 60
+Width: 1000
+VWidth: 0
+HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 384.306> 464.062 54.6875<90.7125 807.725>
+VStem: 31.25 54.6875<140.713 459.287> 125 259.375<175.069 424.931> 812.5 54.6875<140.713 459.287> 906.25 62.5<260.467 339.533>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+773.4375 518.75 m 2
+ 825 518.75 867.1875 476.5625 867.1875 425 c 2
+ 867.1875 175 l 2
+ 867.1875 123.4375 825 81.25 773.4375 81.25 c 2
+ 125 81.25 l 2
+ 73.4375 81.25 31.25 123.4375 31.25 175 c 2
+ 31.25 425 l 2
+ 31.25 476.5625 73.4375 518.75 125 518.75 c 2
+ 773.4375 518.75 l 2
+812.5 175 m 2
+ 812.5 425 l 2
+ 812.5 446.484375 794.921875 464.0625 773.4375 464.0625 c 2
+ 125 464.0625 l 2
+ 103.515625 464.0625 85.9375 446.484375 85.9375 425 c 2
+ 85.9375 175 l 2
+ 85.9375 153.515625 103.515625 135.9375 125 135.9375 c 2
+ 773.4375 135.9375 l 2
+ 794.921875 135.9375 812.5 153.515625 812.5 175 c 2
+906.25 400.390625 m 1
+ 937.5 400.390625 968.75 346.2890625 968.75 300 c 0
+ 968.75 253.7109375 937.5 199.609375 906.25 199.609375 c 1
+ 906.25 400.390625 l 1
+360.9375 425 m 2
+ 373.828125 425 384.375 414.453125 384.375 401.5625 c 2
+ 384.375 198.4375 l 2
+ 384.375 185.546875 373.828125 175 360.9375 175 c 2
+ 148.4375 175 l 2
+ 135.546875 175 125 185.546875 125 198.4375 c 2
+ 125 401.5625 l 2
+ 125 414.453125 135.546875 425 148.4375 425 c 2
+ 360.9375 425 l 2
+EndSplineSet
+Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four nine percent
+EndChar
+
+StartChar: battery_40_charging
+Encoding: 279 983236 61
+Width: 1000
+VWidth: 0
+HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 384.306> 464.062 54.6875<90.7125 807.725>
+VStem: 31.25 54.6875<140.713 459.287> 125 259.375<175.069 424.931> 812.5 54.6875<140.713 459.287> 906.25 62.5<260.467 339.533>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+773.4375 518.75 m 2
+ 825 518.75 867.1875 476.5625 867.1875 425 c 2
+ 867.1875 175 l 2
+ 867.1875 123.4375 825 81.25 773.4375 81.25 c 2
+ 125 81.25 l 2
+ 73.4375 81.25 31.25 123.4375 31.25 175 c 2
+ 31.25 425 l 2
+ 31.25 476.5625 73.4375 518.75 125 518.75 c 2
+ 773.4375 518.75 l 2
+812.5 175 m 2
+ 812.5 425 l 2
+ 812.5 446.484375 794.921875 464.0625 773.4375 464.0625 c 2
+ 125 464.0625 l 2
+ 103.515625 464.0625 85.9375 446.484375 85.9375 425 c 2
+ 85.9375 175 l 2
+ 85.9375 153.515625 103.515625 135.9375 125 135.9375 c 2
+ 773.4375 135.9375 l 2
+ 794.921875 135.9375 812.5 153.515625 812.5 175 c 2
+906.25 400.390625 m 1
+ 937.5 400.390625 968.75 346.2890625 968.75 300 c 0
+ 968.75 253.7109375 937.5 199.609375 906.25 199.609375 c 1
+ 906.25 400.390625 l 1
+360.9375 425 m 2
+ 373.828125 425 384.375 414.453125 384.375 401.5625 c 2
+ 384.375 198.4375 l 2
+ 384.375 185.546875 373.828125 175 360.9375 175 c 2
+ 148.4375 175 l 2
+ 135.546875 175 125 185.546875 125 198.4375 c 2
+ 125 401.5625 l 2
+ 125 414.453125 135.546875 425 148.4375 425 c 2
+ 360.9375 425 l 2
+427.34375 198.4375 m 1
+ 443.75 282.421875 l 1
+ 390.625 282.421875 l 1
+ 478.90625 401.5625 l 1
+ 462.5 317.578125 l 1
+ 515.625 317.578125 l 1
+ 427.34375 198.4375 l 1
+EndSplineSet
+Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four zero underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four one underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four two underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four three underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four four underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four five underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four six underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four seven underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four eight underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four nine underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four zero percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four one percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four two percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four three percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four four percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four five percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four six percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four seven percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four eight percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four nine percent underscore c h a r g i n g
+EndChar
+
+StartChar: battery_60
+Encoding: 280 983222 62
+Width: 1000
+VWidth: 0
+HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 513.994> 464.062 54.6875<90.7125 807.725>
+VStem: 31.25 54.6875<140.713 459.287> 812.5 54.6875<140.713 459.287> 906.25 62.5<260.467 339.533>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+773.4375 518.75 m 2
+ 825 518.75 867.1875 476.5625 867.1875 425 c 2
+ 867.1875 175 l 2
+ 867.1875 123.4375 825 81.25 773.4375 81.25 c 2
+ 125 81.25 l 2
+ 73.4375 81.25 31.25 123.4375 31.25 175 c 2
+ 31.25 425 l 2
+ 31.25 476.5625 73.4375 518.75 125 518.75 c 2
+ 773.4375 518.75 l 2
+812.5 175 m 2
+ 812.5 425 l 2
+ 812.5 446.484375 794.921875 464.0625 773.4375 464.0625 c 2
+ 125 464.0625 l 2
+ 103.515625 464.0625 85.9375 446.484375 85.9375 425 c 2
+ 85.9375 175 l 2
+ 85.9375 153.515625 103.515625 135.9375 125 135.9375 c 2
+ 773.4375 135.9375 l 2
+ 794.921875 135.9375 812.5 153.515625 812.5 175 c 2
+906.25 400.390625 m 1
+ 937.5 400.390625 968.75 346.2890625 968.75 300 c 0
+ 968.75 253.7109375 937.5 199.609375 906.25 199.609375 c 1
+ 906.25 400.390625 l 1
+490.625 425 m 2
+ 503.515625 425 514.0625 414.453125 514.0625 401.5625 c 2
+ 514.0625 198.4375 l 2
+ 514.0625 185.546875 503.515625 175 490.625 175 c 2
+ 148.4375 175 l 2
+ 135.546875 175 125 185.546875 125 198.4375 c 2
+ 125 401.5625 l 2
+ 125 414.453125 135.546875 425 148.4375 425 c 2
+ 490.625 425 l 2
+EndSplineSet
+Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six nine percent
+EndChar
+
+StartChar: battery_60_charging
+Encoding: 281 983238 63
+Width: 1000
+VWidth: 0
+HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 390.625 490.625 503.516> 464.062 54.6875<90.7125 807.725>
+VStem: 31.25 54.6875<140.713 459.287> 812.5 54.6875<140.713 459.287> 906.25 62.5<260.467 339.533>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+773.4375 518.75 m 2
+ 825 518.75 867.1875 476.5625 867.1875 425 c 2
+ 867.1875 175 l 2
+ 867.1875 123.4375 825 81.25 773.4375 81.25 c 2
+ 125 81.25 l 2
+ 73.4375 81.25 31.25 123.4375 31.25 175 c 2
+ 31.25 425 l 2
+ 31.25 476.5625 73.4375 518.75 125 518.75 c 2
+ 773.4375 518.75 l 2
+812.5 175 m 2
+ 812.5 425 l 2
+ 812.5 446.484375 794.921875 464.0625 773.4375 464.0625 c 2
+ 125 464.0625 l 2
+ 103.515625 464.0625 85.9375 446.484375 85.9375 425 c 2
+ 85.9375 175 l 2
+ 85.9375 153.515625 103.515625 135.9375 125 135.9375 c 2
+ 773.4375 135.9375 l 2
+ 794.921875 135.9375 812.5 153.515625 812.5 175 c 2
+906.25 400.390625 m 1
+ 937.5 400.390625 968.75 346.2890625 968.75 300 c 0
+ 968.75 253.7109375 937.5 199.609375 906.25 199.609375 c 1
+ 906.25 400.390625 l 1
+490.625 425 m 2
+ 503.515625 425 514.0625 414.453125 514.0625 401.5625 c 2
+ 514.0625 198.4375 l 2
+ 514.0625 185.546875 503.515625 175 490.625 175 c 2
+ 148.4375 175 l 2
+ 135.546875 175 125 185.546875 125 198.4375 c 2
+ 125 401.5625 l 2
+ 125 414.453125 135.546875 425 148.4375 425 c 2
+ 490.625 425 l 2
+427.34375 198.4375 m 1
+ 515.625 317.578125 l 1
+ 462.5 317.578125 l 1
+ 478.90625 401.5625 l 1
+ 390.625 282.421875 l 1
+ 443.75 282.421875 l 1
+ 427.34375 198.4375 l 1
+EndSplineSet
+Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six zero underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six one underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six two underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six three underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six four underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six five underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six six underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six seven underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six eight underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six nine underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six zero percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six one percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six two percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six three percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six four percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six five percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six six percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six seven percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six eight percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six nine percent underscore c h a r g i n g
+EndChar
+
+StartChar: battery_70
+Encoding: 282 983223 64
+Width: 1000
+VWidth: 0
+HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 578.838> 464.062 54.6875<90.7125 807.725>
+VStem: 31.25 54.6875<140.713 459.287> 812.5 54.6875<140.713 459.287> 906.25 62.5<260.467 339.533>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+773.4375 518.75 m 2
+ 825 518.75 867.1875 476.5625 867.1875 425 c 2
+ 867.1875 175 l 2
+ 867.1875 123.4375 825 81.25 773.4375 81.25 c 2
+ 125 81.25 l 2
+ 73.4375 81.25 31.25 123.4375 31.25 175 c 2
+ 31.25 425 l 2
+ 31.25 476.5625 73.4375 518.75 125 518.75 c 2
+ 773.4375 518.75 l 2
+812.5 175 m 2
+ 812.5 425 l 2
+ 812.5 446.484375 794.921875 464.0625 773.4375 464.0625 c 2
+ 125 464.0625 l 2
+ 103.515625 464.0625 85.9375 446.484375 85.9375 425 c 2
+ 85.9375 175 l 2
+ 85.9375 153.515625 103.515625 135.9375 125 135.9375 c 2
+ 773.4375 135.9375 l 2
+ 794.921875 135.9375 812.5 153.515625 812.5 175 c 2
+906.25 400.390625 m 1
+ 937.5 400.390625 968.75 346.2890625 968.75 300 c 0
+ 968.75 253.7109375 937.5 199.609375 906.25 199.609375 c 1
+ 906.25 400.390625 l 1
+555.46875 425 m 2
+ 568.359375 425 578.90625 414.453125 578.90625 401.5625 c 2
+ 578.90625 198.4375 l 2
+ 578.90625 185.546875 568.359375 175 555.46875 175 c 2
+ 148.4375 175 l 2
+ 135.546875 175 125 185.546875 125 198.4375 c 2
+ 125 401.5625 l 2
+ 125 414.453125 135.546875 425 148.4375 425 c 2
+ 555.46875 425 l 2
+EndSplineSet
+Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven nine percent
+EndChar
+
+StartChar: battery_70_charging
+Encoding: 283 983239 65
+Width: 1000
+VWidth: 0
+HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 390.625 515.625 578.838> 464.062 54.6875<90.7125 807.725>
+VStem: 31.25 54.6875<140.713 459.287> 812.5 54.6875<140.713 459.287> 906.25 62.5<260.467 339.533>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+773.4375 518.75 m 2
+ 825 518.75 867.1875 476.5625 867.1875 425 c 2
+ 867.1875 175 l 2
+ 867.1875 123.4375 825 81.25 773.4375 81.25 c 2
+ 125 81.25 l 2
+ 73.4375 81.25 31.25 123.4375 31.25 175 c 2
+ 31.25 425 l 2
+ 31.25 476.5625 73.4375 518.75 125 518.75 c 2
+ 773.4375 518.75 l 2
+812.5 175 m 2
+ 812.5 425 l 2
+ 812.5 446.484375 794.921875 464.0625 773.4375 464.0625 c 2
+ 125 464.0625 l 2
+ 103.515625 464.0625 85.9375 446.484375 85.9375 425 c 2
+ 85.9375 175 l 2
+ 85.9375 153.515625 103.515625 135.9375 125 135.9375 c 2
+ 773.4375 135.9375 l 2
+ 794.921875 135.9375 812.5 153.515625 812.5 175 c 2
+906.25 400.390625 m 1
+ 937.5 400.390625 968.75 346.2890625 968.75 300 c 0
+ 968.75 253.7109375 937.5 199.609375 906.25 199.609375 c 1
+ 906.25 400.390625 l 1
+555.46875 425 m 2
+ 568.359375 425 578.90625 414.453125 578.90625 401.5625 c 2
+ 578.90625 198.4375 l 2
+ 578.90625 185.546875 568.359375 175 555.46875 175 c 2
+ 148.4375 175 l 2
+ 135.546875 175 125 185.546875 125 198.4375 c 2
+ 125 401.5625 l 2
+ 125 414.453125 135.546875 425 148.4375 425 c 2
+ 555.46875 425 l 2
+427.34375 198.4375 m 1
+ 515.625 317.578125 l 1
+ 462.5 317.578125 l 1
+ 478.90625 401.5625 l 1
+ 390.625 282.421875 l 1
+ 443.75 282.421875 l 1
+ 427.34375 198.4375 l 1
+EndSplineSet
+Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven zero underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven one underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven two underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven three underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven four underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven five underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven six underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven seven underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven eight underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven nine underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven zero percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven one percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven two percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven three percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven four percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven five percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven six percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven seven percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven eight percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven nine percent underscore c h a r g i n g
+EndChar
+
+StartChar: battery_80
+Encoding: 284 983224 66
+Width: 1000
+VWidth: 0
+HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 643.681> 464.062 54.6875<90.7125 807.725>
+VStem: 31.25 54.6875<140.713 459.287> 812.5 54.6875<140.713 459.287> 906.25 62.5<260.467 339.533>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+773.4375 518.75 m 2
+ 825 518.75 867.1875 476.5625 867.1875 425 c 2
+ 867.1875 175 l 2
+ 867.1875 123.4375 825 81.25 773.4375 81.25 c 2
+ 125 81.25 l 2
+ 73.4375 81.25 31.25 123.4375 31.25 175 c 2
+ 31.25 425 l 2
+ 31.25 476.5625 73.4375 518.75 125 518.75 c 2
+ 773.4375 518.75 l 2
+812.5 175 m 2
+ 812.5 425 l 2
+ 812.5 446.484375 794.921875 464.0625 773.4375 464.0625 c 2
+ 125 464.0625 l 2
+ 103.515625 464.0625 85.9375 446.484375 85.9375 425 c 2
+ 85.9375 175 l 2
+ 85.9375 153.515625 103.515625 135.9375 125 135.9375 c 2
+ 773.4375 135.9375 l 2
+ 794.921875 135.9375 812.5 153.515625 812.5 175 c 2
+906.25 400.390625 m 1
+ 937.5 400.390625 968.75 346.2890625 968.75 300 c 0
+ 968.75 253.7109375 937.5 199.609375 906.25 199.609375 c 1
+ 906.25 400.390625 l 1
+620.3125 425 m 2
+ 633.203125 425 643.75 414.453125 643.75 401.5625 c 2
+ 643.75 198.4375 l 2
+ 643.75 185.546875 633.203125 175 620.3125 175 c 2
+ 148.4375 175 l 2
+ 135.546875 175 125 185.546875 125 198.4375 c 2
+ 125 401.5625 l 2
+ 125 414.453125 135.546875 425 148.4375 425 c 2
+ 620.3125 425 l 2
+EndSplineSet
+Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight nine percent
+EndChar
+
+StartChar: battery_80_charging
+Encoding: 285 983240 67
+Width: 1000
+VWidth: 0
+HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 390.625 515.625 643.681> 464.062 54.6875<90.7125 807.725>
+VStem: 31.25 54.6875<140.713 459.287> 812.5 54.6875<140.713 459.287> 906.25 62.5<260.467 339.533>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+773.4375 518.75 m 2
+ 825 518.75 867.1875 476.5625 867.1875 425 c 2
+ 867.1875 175 l 2
+ 867.1875 123.4375 825 81.25 773.4375 81.25 c 2
+ 125 81.25 l 2
+ 73.4375 81.25 31.25 123.4375 31.25 175 c 2
+ 31.25 425 l 2
+ 31.25 476.5625 73.4375 518.75 125 518.75 c 2
+ 773.4375 518.75 l 2
+812.5 175 m 2
+ 812.5 425 l 2
+ 812.5 446.484375 794.921875 464.0625 773.4375 464.0625 c 2
+ 125 464.0625 l 2
+ 103.515625 464.0625 85.9375 446.484375 85.9375 425 c 2
+ 85.9375 175 l 2
+ 85.9375 153.515625 103.515625 135.9375 125 135.9375 c 2
+ 773.4375 135.9375 l 2
+ 794.921875 135.9375 812.5 153.515625 812.5 175 c 2
+906.25 400.390625 m 1
+ 937.5 400.390625 968.75 346.2890625 968.75 300 c 0
+ 968.75 253.7109375 937.5 199.609375 906.25 199.609375 c 1
+ 906.25 400.390625 l 1
+620.3125 425 m 2
+ 633.203125 425 643.75 414.453125 643.75 401.5625 c 2
+ 643.75 198.4375 l 2
+ 643.75 185.546875 633.203125 175 620.3125 175 c 2
+ 148.4375 175 l 2
+ 135.546875 175 125 185.546875 125 198.4375 c 2
+ 125 401.5625 l 2
+ 125 414.453125 135.546875 425 148.4375 425 c 2
+ 620.3125 425 l 2
+427.34375 198.4375 m 1
+ 515.625 317.578125 l 1
+ 462.5 317.578125 l 1
+ 478.90625 401.5625 l 1
+ 390.625 282.421875 l 1
+ 443.75 282.421875 l 1
+ 427.34375 198.4375 l 1
+EndSplineSet
+Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight zero underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight one underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight two underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight three underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight four underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight five underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight six underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight seven underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight eight underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight nine underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight zero percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight one percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight two percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight three percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight four percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight five percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight six percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight seven percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight eight percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight nine percent underscore c h a r g i n g
+EndChar
+
+StartChar: battery_90
+Encoding: 286 983225 68
+Width: 1000
+VWidth: 0
+HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 708.525> 464.062 54.6875<90.7125 807.725>
+VStem: 31.25 54.6875<140.713 459.287> 812.5 54.6875<140.713 459.287> 906.25 62.5<260.467 339.533>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+773.4375 518.75 m 2
+ 825 518.75 867.1875 476.5625 867.1875 425 c 2
+ 867.1875 175 l 2
+ 867.1875 123.4375 825 81.25 773.4375 81.25 c 2
+ 125 81.25 l 2
+ 73.4375 81.25 31.25 123.4375 31.25 175 c 2
+ 31.25 425 l 2
+ 31.25 476.5625 73.4375 518.75 125 518.75 c 2
+ 773.4375 518.75 l 2
+812.5 175 m 2
+ 812.5 425 l 2
+ 812.5 446.484375 794.921875 464.0625 773.4375 464.0625 c 2
+ 125 464.0625 l 2
+ 103.515625 464.0625 85.9375 446.484375 85.9375 425 c 2
+ 85.9375 175 l 2
+ 85.9375 153.515625 103.515625 135.9375 125 135.9375 c 2
+ 773.4375 135.9375 l 2
+ 794.921875 135.9375 812.5 153.515625 812.5 175 c 2
+906.25 400.390625 m 1
+ 937.5 400.390625 968.75 346.2890625 968.75 300 c 0
+ 968.75 253.7109375 937.5 199.609375 906.25 199.609375 c 1
+ 906.25 400.390625 l 1
+685.15625 425 m 2
+ 698.046875 425 708.59375 414.453125 708.59375 401.5625 c 2
+ 708.59375 198.4375 l 2
+ 708.59375 185.546875 698.046875 175 685.15625 175 c 2
+ 148.4375 175 l 2
+ 135.546875 175 125 185.546875 125 198.4375 c 2
+ 125 401.5625 l 2
+ 125 414.453125 135.546875 425 148.4375 425 c 2
+ 685.15625 425 l 2
+EndSplineSet
+Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine nine percent
+EndChar
+
+StartChar: battery_90_charging
+Encoding: 287 983241 69
+Width: 1000
+VWidth: 0
+HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 390.625 515.625 708.525> 464.062 54.6875<90.7125 807.725>
+VStem: 31.25 54.6875<140.713 459.287> 812.5 54.6875<140.713 459.287> 906.25 62.5<260.467 339.533>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+773.4375 518.75 m 2
+ 825 518.75 867.1875 476.5625 867.1875 425 c 2
+ 867.1875 175 l 2
+ 867.1875 123.4375 825 81.25 773.4375 81.25 c 2
+ 125 81.25 l 2
+ 73.4375 81.25 31.25 123.4375 31.25 175 c 2
+ 31.25 425 l 2
+ 31.25 476.5625 73.4375 518.75 125 518.75 c 2
+ 773.4375 518.75 l 2
+812.5 175 m 2
+ 812.5 425 l 2
+ 812.5 446.484375 794.921875 464.0625 773.4375 464.0625 c 2
+ 125 464.0625 l 2
+ 103.515625 464.0625 85.9375 446.484375 85.9375 425 c 2
+ 85.9375 175 l 2
+ 85.9375 153.515625 103.515625 135.9375 125 135.9375 c 2
+ 773.4375 135.9375 l 2
+ 794.921875 135.9375 812.5 153.515625 812.5 175 c 2
+906.25 400.390625 m 1
+ 937.5 400.390625 968.75 346.2890625 968.75 300 c 0
+ 968.75 253.7109375 937.5 199.609375 906.25 199.609375 c 1
+ 906.25 400.390625 l 1
+685.15625 425 m 2
+ 698.046875 425 708.59375 414.453125 708.59375 401.5625 c 2
+ 708.59375 198.4375 l 2
+ 708.59375 185.546875 698.046875 175 685.15625 175 c 2
+ 148.4375 175 l 2
+ 135.546875 175 125 185.546875 125 198.4375 c 2
+ 125 401.5625 l 2
+ 125 414.453125 135.546875 425 148.4375 425 c 2
+ 685.15625 425 l 2
+427.34375 198.4375 m 1
+ 515.625 317.578125 l 1
+ 462.5 317.578125 l 1
+ 478.90625 401.5625 l 1
+ 390.625 282.421875 l 1
+ 443.75 282.421875 l 1
+ 427.34375 198.4375 l 1
+EndSplineSet
+Validated: 1
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine zero underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine one underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine two underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine three underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine four underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine five underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine six underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine seven underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine eight underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine nine underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine zero percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine one percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine two percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine three percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine four percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine five percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine six percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine seven percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine eight percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine nine percent underscore c h a r g i n g
 EndChar
 EndChars
 EndSplineFont

@@ -25,45 +25,56 @@ The following configuration in i3status will work for `otf-statusbar`:
 
 ## Battery
 
-| icon                                                   | ligature             | alternative ligatures (range_start..range_end) | unicode (hex) |
-| ---                                                    | ---                  | ---                                            | ---           |
-| <img width="64" src="icons/battery-00.svg"/>           | battery_0            | battery_1..battery_24                          | 0xF00B0       |
-| <img width="64" src="icons/battery-25.svg"/>           | battery_25           | battery_26..battery_49                         | 0xF00B1       |
-| <img width="64" src="icons/battery-50.svg"/>           | battery_50           | battery_51..battery_74                         | 0xF00B2       |
-| <img width="64" src="icons/battery-75.svg"/>           | battery_75           | battery_76..battery_99                         | 0xF00B3       |
-| <img width="64" src="icons/battery-100.svg"/>          | battery_100          |                                                | 0xF00B4       |
-| <img width="64" src="icons/battery-00-charging.svg"/>  | battery_0_charging   | battery_1_charging..battery_24_charging        | 0xF00C0       |
-| <img width="64" src="icons/battery-25-charging.svg"/>  | battery_25_charging  | battery_26_charging..battery_49_charging       | 0xF00C1       |
-| <img width="64" src="icons/battery-50-charging.svg"/>  | battery_50_charging  | battery_51_charging..battery_74_charging       | 0xF00C2       |
-| <img width="64" src="icons/battery-75-charging.svg"/>  | battery_75_charging  | battery_76_charging..battery_99_charging       | 0xF00C3       |
-| <img width="64" src="icons/battery-100-charging.svg"/> | battery_100_charging | battery_100_full                               | 0xF00C4       |
-
-A lot of aliased ligatures here. The font will likely get a higher resolution (more glyphs in between) here.
+| icon                                       | ligature             | alternative ligatures (range_start..range_end) | unicode (hex) |
+| ---                                        | ---                  | ---                                            | ---           |
+| ![preview](icons/battery-00.svg)           | battery_0            | battery_1..battery_9                           | 0xF00B0       |
+| ![preview](icons/battery-10.svg)           | battery_10           | battery_11..battery_19                         | 0xF00B1       |
+| ![preview](icons/battery-20.svg)           | battery_20           | battery_21..battery_29                         | 0xF00B2       |
+| ![preview](icons/battery-30.svg)           | battery_30           | battery_31..battery_39                         | 0xF00B3       |
+| ![preview](icons/battery-40.svg)           | battery_40           | battery_41..battery_49                         | 0xF00B4       |
+| ![preview](icons/battery-50.svg)           | battery_50           | battery_51..battery_59                         | 0xF00B5       |
+| ![preview](icons/battery-60.svg)           | battery_60           | battery_61..battery_69                         | 0xF00B6       |
+| ![preview](icons/battery-70.svg)           | battery_70           | battery_71..battery_79                         | 0xF00B7       |
+| ![preview](icons/battery-80.svg)           | battery_80           | battery_81..battery_89                         | 0xF00B8       |
+| ![preview](icons/battery-90.svg)           | battery_90           | battery_91..battery_99                         | 0xF00B9       |
+| ![preview](icons/battery-100.svg)          | battery_100          |                                                | 0xF00BA       |
+| ![preview](icons/battery-00-charging.svg)  | battery_0_charging   | battery_1_charging..battery_9_charging         | 0xF00C0       |
+| ![preview](icons/battery-10-charging.svg)  | battery_10_charging  | battery_11_charging..battery_19_charging       | 0xF00C1       |
+| ![preview](icons/battery-20-charging.svg)  | battery_20_charging  | battery_22_charging..battery_29_charging       | 0xF00C2       |
+| ![preview](icons/battery-30-charging.svg)  | battery_30_charging  | battery_33_charging..battery_39_charging       | 0xF00C3       |
+| ![preview](icons/battery-40-charging.svg)  | battery_40_charging  | battery_44_charging..battery_49_charging       | 0xF00C4       |
+| ![preview](icons/battery-50-charging.svg)  | battery_50_charging  | battery_55_charging..battery_59_charging       | 0xF00C5       |
+| ![preview](icons/battery-60-charging.svg)  | battery_60_charging  | battery_66_charging..battery_69_charging       | 0xF00C6       |
+| ![preview](icons/battery-70-charging.svg)  | battery_70_charging  | battery_77_charging..battery_79_charging       | 0xF00C7       |
+| ![preview](icons/battery-80-charging.svg)  | battery_80_charging  | battery_88_charging..battery_89_charging       | 0xF00C8       |
+| ![preview](icons/battery-90-charging.svg)  | battery_90_charging  | battery_99_charging..battery_99_charging       | 0xF00C9       |
+| ![preview](icons/battery-100-charging.svg) | battery_100_charging | battery_100_full                               | 0xF00CA       |
 
 ## Wifi
 
-| icon                                         | ligature   | alternative ligatures (range_start..range_end) | unicode (hex) |
-| ---                                          | ---        | ---                                            | ---           |
-| <img width="64" src="icons/wifi-off.svg"/>   | wifi_off   |                                                | 0xF00A0       |
-| <img width="64" src="icons/wifi-bar-1.svg"/> | wifi_bar_1 | wifi_signal_0..wifi_signal_33                  | 0xF00A1       |
-| <img width="64" src="icons/wifi-bar-2.svg"/> | wifi_bar_2 | wifi_signal_34..wifi_signal_66                 | 0xF00A2       |
-| <img width="64" src="icons/wifi-bar-3.svg"/> | wifi_bar_3 | wifi_signal_67..wifi_signal_100                | 0xF00A3       |
+| icon                             | ligature   | alternative ligatures (range_start..range_end) | unicode (hex) |
+| ---                              | ---        | ---                                            | ---           |
+| ![preview](icons/wifi-off.svg)   | wifi_off   |                                                | 0xF00A0       |
+| ![preview](icons/wifi-bar-1.svg) | wifi_bar_1 | wifi_signal_0..wifi_signal_33                  | 0xF00A1       |
+| ![preview](icons/wifi-bar-2.svg) | wifi_bar_2 | wifi_signal_34..wifi_signal_66                 | 0xF00A2       |
+| ![preview](icons/wifi-bar-3.svg) | wifi_bar_3 | wifi_signal_67..wifi_signal_100                | 0xF00A3       |
 
 ## Volume
 
-| icon                                       | ligature     | alternative ligatures (range_start..range_end) | unicode (hex) |
-| ---                                        | ---          | ---                                            | ---           |
-| <img width="64" src="icons/volume-0.svg"/> | volume_bar_0 | volume_off, volume_mute, volume_0(%)?          | 0xF00D0       |
-| <img width="64" src="icons/volume-1.svg"/> | volume_bar_1 | volume_1..volume_33(%)?                        | 0xF00D1       |
-| <img width="64" src="icons/volume-2.svg"/> | volume_bar_2 | volume_34..volume_66(%)?                       | 0xF00D2       |
-| <img width="64" src="icons/volume-3.svg"/> | volume_bar_3 | volume_67..volume_100(%)?                      | 0xF00D3       |
+| icon                           | ligature     | alternative ligatures (range_start..range_end) | unicode (hex) |
+| ---                            | ---          | ---                                            | ---           |
+| ![preview](icons/volume-0.svg) | volume_bar_0 | volume_off, volume_mute, volume_0(%)?          | 0xF00D0       |
+| ![preview](icons/volume-1.svg) | volume_bar_1 | volume_1..volume_33(%)?                        | 0xF00D1       |
+| ![preview](icons/volume-2.svg) | volume_bar_2 | volume_34..volume_66(%)?                       | 0xF00D2       |
+| ![preview](icons/volume-3.svg) | volume_bar_3 | volume_67..volume_100(%)?                      | 0xF00D3       |
+
 
 ## Microphone
 
-| icon                                      | ligature | alternative ligatures (range_start..range_end) | unicode (hex) |
-| ---                                       | ---      | ---                                            | ---           |
-| <img width="64" src="icons/mic-off.svg"/> | mic_off  | mic_mute                                       | 0xF00E0       |
-| <img width="64" src="icons/mic.svg"/>     | mic      |                                                | 0xF00E1       |
+| icon                          | ligature | alternative ligatures (range_start..range_end) | unicode (hex) |
+| ---                           | ---      | ---                                            | ---           |
+| ![preview](icons/mic-off.svg) | mic_off  | mic_mute                                       | 0xF00E0       |
+| ![preview](icons/mic.svg)     | mic      |                                                | 0xF00E1       |
 
 
 # Credits
