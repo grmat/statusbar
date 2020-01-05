@@ -1,0 +1,9 @@
+image: alpine/edge
+packages:
+  - fontforge
+sources:
+  - https://git.sr.ht/~grmat/statusbar
+tasks:
+  - build: |
+      cd statusbar
+      fontforge -script build.pe statusbar.sfd
