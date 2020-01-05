@@ -86,9 +86,10 @@ The font is built with [FontForge][2]. For a quick info on how ligatures work, [
 
 # License
 
-**TBD**
+This font is licensed under the SIL OFL (see [LICENSE](./LICENSE)). Read more about the license in the [official FAQ][4].
 
 
 [1]: https://github.com/ionic-team/ionicons
 [2]: https://fontforge.github.io
 [3]: https://www.youtube.com/watch?v=UUUeogQAjv0&t=213
+[4]: https://scripts.sil.org/cms/scripts/page.php?item_id=OFL-FAQ_web
