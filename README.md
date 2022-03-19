@@ -71,10 +71,27 @@ The following configuration in i3status will work for `otf-statusbar`:
 
 ## Microphone
 
-| icon                          | ligature | alternative ligatures (range_start..range_end) | unicode (hex) |
-| ---                           | ---      | ---                                            | ---           |
-| ![preview](icons/mic-off.svg) | mic_off  | mic_mute                                       | 0xF00E0       |
-| ![preview](icons/mic.svg)     | mic      |                                                | 0xF00E1       |
+| icon                          | ligature | alternative ligatures | unicode (hex) |
+| ---                           | ---      | ---                   | ---           |
+| ![preview](icons/mic-off.svg) | mic_off  | mic_mute              | 0xF00E0       |
+| ![preview](icons/mic.svg)     | mic      |                       | 0xF00E1       |
+
+## Notifications
+
+| icon                                        | ligature           | alternative ligatures | unicode (hex) |
+| ---                                         | ---                | ---                   | ---           |
+| ![preview](icons/notifications.svg)         | notifications      |                       | 0xF00F0       |
+| ![preview](icons/notifications-off.svg)     | notifications_off  | notifications_mute    | 0xF00F1       |
+| ![preview](icons/notifications-outline.svg) | notifications_none |                       | 0xF00F2       |
+
+## Misc
+
+| icon                           | ligature | alternative ligatures | unicode (hex) |
+| ---                            | ---      | ---                   | ---           |
+| ![preview](icons/moon.svg)     | moon     |                       | 0xF00F3       |
+| ![preview](icons/infinite.svg) | infinity |                       | 0xF00F4       |
+| ![preview](icons/eye.svg)      | eye      |                       | 0xF00F5       |
+| ![preview](icons/eye-off.svg)  | eye_off  |                       | 0xF00F6       |
 
 
 # Credits

@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1572312906
-ModificationTime: 1572571935
+ModificationTime: 1647684341
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,24 +36,25 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
+Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 0" { "'liga' Standard Ligatures in Latin lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 0 1 "'liga' Standard Ligatures lookup 0" { "'liga' Standard Ligatures lookup 0-1"  } ['liga' ('DFLT' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033
-Encoding: ISO8859-1
-Compacted: 1
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 38 14
+WinInfo: 0 51 20
 BeginPrivate: 0
 EndPrivate
-BeginChars: 288 70
+BeginChars: 77 77
 
 StartChar: battery_0
-Encoding: 256 983216 0
+Encoding: 38 983216 0
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<91.7125 808.725> 464.062 54.6875<91.7125 808.725>
@@ -108,7 +109,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine 
 EndChar
 
 StartChar: battery_0_charging
-Encoding: 257 983232 1
+Encoding: 39 983232 1
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 464.062 54.6875<90.7125 807.725>
@@ -170,7 +171,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine 
 EndChar
 
 StartChar: battery_10
-Encoding: 258 983217 2
+Encoding: 40 983217 2
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 464.062 54.6875<90.7125 807.725>
@@ -234,7 +235,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one n
 EndChar
 
 StartChar: battery_10_charging
-Encoding: 259 983233 3
+Encoding: 41 983233 3
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 464.062 54.6875<90.7125 807.725>
@@ -305,7 +306,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one n
 EndChar
 
 StartChar: battery_50
-Encoding: 260 983221 4
+Encoding: 42 983221 4
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 449.15> 464.062 54.6875<90.7125 807.725>
@@ -370,7 +371,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five 
 EndChar
 
 StartChar: battery_50_charging
-Encoding: 261 983237 5
+Encoding: 43 983237 5
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 390.625 425.781 438.672> 464.062 54.6875<90.7125 807.725>
@@ -442,7 +443,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore five 
 EndChar
 
 StartChar: battery_30
-Encoding: 262 983219 6
+Encoding: 44 983219 6
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 319.463> 464.062 54.6875<90.7125 807.725>
@@ -507,7 +508,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three
 EndChar
 
 StartChar: battery_30_charging
-Encoding: 263 983235 7
+Encoding: 45 983235 7
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 319.463> 464.062 54.6875<90.7125 807.725>
@@ -579,7 +580,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore three
 EndChar
 
 StartChar: battery_100
-Encoding: 264 983226 8
+Encoding: 46 983226 8
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 773.369> 464.062 54.6875<90.7125 807.725>
@@ -626,7 +627,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one z
 EndChar
 
 StartChar: battery_100_charging
-Encoding: 265 983242 9
+Encoding: 47 983242 9
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 390.625 515.625 773.369> 464.062 54.6875<90.7125 807.725>
@@ -682,7 +683,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore one z
 EndChar
 
 StartChar: wifi_signal_1
-Encoding: 266 983201 10
+Encoding: 48 983201 10
 Width: 1000
 VWidth: 0
 LayerCount: 2
@@ -770,7 +771,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore s i g n a l
 EndChar
 
 StartChar: wifi_signal_2
-Encoding: 267 983202 11
+Encoding: 49 983202 11
 Width: 1000
 VWidth: 0
 HStem: 278.125 109.375<388.58 610.836>
@@ -868,7 +869,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore b a r under
 EndChar
 
 StartChar: wifi_signal_3
-Encoding: 268 983203 12
+Encoding: 50 983203 12
 Width: 1000
 VWidth: 0
 HStem: 278.125 109.375<388.58 610.836> 502.734 109.766<350.409 649.794>
@@ -981,7 +982,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore b a r under
 EndChar
 
 StartChar: a
-Encoding: 97 97 13
+Encoding: 12 97 13
 Width: 1000
 VWidth: 0
 Flags: W
@@ -991,7 +992,7 @@ Validated: 1
 EndChar
 
 StartChar: b
-Encoding: 98 98 14
+Encoding: 13 98 14
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1001,7 +1002,7 @@ Validated: 1
 EndChar
 
 StartChar: c
-Encoding: 99 99 15
+Encoding: 14 99 15
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1011,7 +1012,7 @@ Validated: 1
 EndChar
 
 StartChar: d
-Encoding: 100 100 16
+Encoding: 15 100 16
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1021,7 +1022,7 @@ Validated: 1
 EndChar
 
 StartChar: e
-Encoding: 101 101 17
+Encoding: 16 101 17
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1031,7 +1032,7 @@ Validated: 1
 EndChar
 
 StartChar: f
-Encoding: 102 102 18
+Encoding: 17 102 18
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1041,7 +1042,7 @@ Validated: 1
 EndChar
 
 StartChar: g
-Encoding: 103 103 19
+Encoding: 18 103 19
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1051,7 +1052,7 @@ Validated: 1
 EndChar
 
 StartChar: h
-Encoding: 104 104 20
+Encoding: 19 104 20
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1061,7 +1062,7 @@ Validated: 1
 EndChar
 
 StartChar: i
-Encoding: 105 105 21
+Encoding: 20 105 21
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1071,7 +1072,7 @@ Validated: 1
 EndChar
 
 StartChar: j
-Encoding: 106 106 22
+Encoding: 21 106 22
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1081,7 +1082,7 @@ Validated: 1
 EndChar
 
 StartChar: k
-Encoding: 107 107 23
+Encoding: 22 107 23
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1091,7 +1092,7 @@ Validated: 1
 EndChar
 
 StartChar: l
-Encoding: 108 108 24
+Encoding: 23 108 24
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1101,7 +1102,7 @@ Validated: 1
 EndChar
 
 StartChar: m
-Encoding: 109 109 25
+Encoding: 24 109 25
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1111,7 +1112,7 @@ Validated: 1
 EndChar
 
 StartChar: n
-Encoding: 110 110 26
+Encoding: 25 110 26
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1121,7 +1122,7 @@ Validated: 1
 EndChar
 
 StartChar: o
-Encoding: 111 111 27
+Encoding: 26 111 27
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1131,7 +1132,7 @@ Validated: 1
 EndChar
 
 StartChar: p
-Encoding: 112 112 28
+Encoding: 27 112 28
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1141,7 +1142,7 @@ Validated: 1
 EndChar
 
 StartChar: q
-Encoding: 113 113 29
+Encoding: 28 113 29
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1151,7 +1152,7 @@ Validated: 1
 EndChar
 
 StartChar: r
-Encoding: 114 114 30
+Encoding: 29 114 30
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1161,7 +1162,7 @@ Validated: 1
 EndChar
 
 StartChar: s
-Encoding: 115 115 31
+Encoding: 30 115 31
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1171,7 +1172,7 @@ Validated: 1
 EndChar
 
 StartChar: t
-Encoding: 116 116 32
+Encoding: 31 116 32
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1181,7 +1182,7 @@ Validated: 1
 EndChar
 
 StartChar: u
-Encoding: 117 117 33
+Encoding: 32 117 33
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1191,7 +1192,7 @@ Validated: 1
 EndChar
 
 StartChar: v
-Encoding: 118 118 34
+Encoding: 33 118 34
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1201,7 +1202,7 @@ Validated: 1
 EndChar
 
 StartChar: w
-Encoding: 119 119 35
+Encoding: 34 119 35
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1211,7 +1212,7 @@ Validated: 1
 EndChar
 
 StartChar: x
-Encoding: 120 120 36
+Encoding: 35 120 36
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1221,7 +1222,7 @@ Validated: 1
 EndChar
 
 StartChar: y
-Encoding: 121 121 37
+Encoding: 36 121 37
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1231,7 +1232,7 @@ Validated: 1
 EndChar
 
 StartChar: z
-Encoding: 122 122 38
+Encoding: 37 122 38
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1241,7 +1242,7 @@ Validated: 1
 EndChar
 
 StartChar: zero
-Encoding: 48 48 39
+Encoding: 1 48 39
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1251,7 +1252,7 @@ Validated: 1
 EndChar
 
 StartChar: one
-Encoding: 49 49 40
+Encoding: 2 49 40
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1261,7 +1262,7 @@ Validated: 1
 EndChar
 
 StartChar: two
-Encoding: 50 50 41
+Encoding: 3 50 41
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1271,7 +1272,7 @@ Validated: 1
 EndChar
 
 StartChar: three
-Encoding: 51 51 42
+Encoding: 4 51 42
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1281,7 +1282,7 @@ Validated: 1
 EndChar
 
 StartChar: four
-Encoding: 52 52 43
+Encoding: 5 52 43
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1291,7 +1292,7 @@ Validated: 1
 EndChar
 
 StartChar: five
-Encoding: 53 53 44
+Encoding: 6 53 44
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1301,7 +1302,7 @@ Validated: 1
 EndChar
 
 StartChar: six
-Encoding: 54 54 45
+Encoding: 7 54 45
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1311,7 +1312,7 @@ Validated: 1
 EndChar
 
 StartChar: seven
-Encoding: 55 55 46
+Encoding: 8 55 46
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1321,7 +1322,7 @@ Validated: 1
 EndChar
 
 StartChar: eight
-Encoding: 56 56 47
+Encoding: 9 56 47
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1331,7 +1332,7 @@ Validated: 1
 EndChar
 
 StartChar: nine
-Encoding: 57 57 48
+Encoding: 10 57 48
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1341,7 +1342,7 @@ Validated: 1
 EndChar
 
 StartChar: underscore
-Encoding: 95 95 49
+Encoding: 11 95 49
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1351,7 +1352,7 @@ Validated: 1
 EndChar
 
 StartChar: wifi_off
-Encoding: 269 983200 50
+Encoding: 51 983200 50
 Width: 1000
 VWidth: 0
 HStem: 237.305 125.195<616.207 905.939> 251.367 99.2188<188.708 455.316>
@@ -1400,7 +1401,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" w i f i underscore o f f
 EndChar
 
 StartChar: mic
-Encoding: 270 983265 51
+Encoding: 52 983265 51
 Width: 1000
 VWidth: 0
 HStem: -106.25 54.6875<375.558 472.656 527.344 624.442> 49.8047 52.9297<420.579 472.656 527.344 579.421> 143.75 562.5<430.237 569.763>
@@ -1443,7 +1444,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" m i c
 EndChar
 
 StartChar: mic_mute
-Encoding: 271 983264 52
+Encoding: 53 983264 52
 Width: 1000
 VWidth: 0
 HStem: -106.25 54.6875<375.557 472.655 527.343 624.441>
@@ -1504,7 +1505,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" m i c underscore m u t e
 EndChar
 
 StartChar: volume_mute
-Encoding: 272 983248 53
+Encoding: 54 983248 53
 Width: 1000
 VWidth: 0
 HStem: 190.625 218.749<345.161 478.125>
@@ -1538,7 +1539,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore m u t e
 EndChar
 
 StartChar: volume_1
-Encoding: 273 983249 54
+Encoding: 55 983249 54
 Width: 1000
 VWidth: 0
 HStem: 190.625 218.749<254.536 387.5>
@@ -1643,7 +1644,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three t
 EndChar
 
 StartChar: volume_2
-Encoding: 274 983250 55
+Encoding: 56 983250 55
 Width: 1000
 VWidth: 0
 HStem: 190.625 218.749<188.52 321.484>
@@ -1758,7 +1759,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore three f
 EndChar
 
 StartChar: volume_3
-Encoding: 275 983251 56
+Encoding: 57 983251 56
 Width: 1000
 VWidth: 0
 HStem: 190.625 218.749<127.388 260.352>
@@ -1885,7 +1886,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" v o l u m e underscore one zer
 EndChar
 
 StartChar: percent
-Encoding: 37 37 57
+Encoding: 0 37 57
 Width: 1000
 VWidth: 0
 Flags: W
@@ -1895,7 +1896,7 @@ Validated: 1
 EndChar
 
 StartChar: battery_20
-Encoding: 276 983218 58
+Encoding: 58 983218 58
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 464.062 54.6875<90.7125 807.725>
@@ -1959,7 +1960,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two n
 EndChar
 
 StartChar: battery_20_charging
-Encoding: 277 983234 59
+Encoding: 59 983234 59
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 464.062 54.6875<90.7125 807.725>
@@ -2030,7 +2031,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore two n
 EndChar
 
 StartChar: battery_40
-Encoding: 278 983220 60
+Encoding: 60 983220 60
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 384.306> 464.062 54.6875<90.7125 807.725>
@@ -2095,7 +2096,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four 
 EndChar
 
 StartChar: battery_40_charging
-Encoding: 279 983236 61
+Encoding: 61 983236 61
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 384.306> 464.062 54.6875<90.7125 807.725>
@@ -2167,7 +2168,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore four 
 EndChar
 
 StartChar: battery_60
-Encoding: 280 983222 62
+Encoding: 62 983222 62
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 513.994> 464.062 54.6875<90.7125 807.725>
@@ -2232,7 +2233,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six n
 EndChar
 
 StartChar: battery_60_charging
-Encoding: 281 983238 63
+Encoding: 63 983238 63
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 390.625 490.625 503.516> 464.062 54.6875<90.7125 807.725>
@@ -2304,7 +2305,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore six n
 EndChar
 
 StartChar: battery_70
-Encoding: 282 983223 64
+Encoding: 64 983223 64
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 578.838> 464.062 54.6875<90.7125 807.725>
@@ -2369,7 +2370,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven
 EndChar
 
 StartChar: battery_70_charging
-Encoding: 283 983239 65
+Encoding: 65 983239 65
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 390.625 515.625 578.838> 464.062 54.6875<90.7125 807.725>
@@ -2441,7 +2442,7 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore seven
 EndChar
 
 StartChar: battery_80
-Encoding: 284 983224 66
+Encoding: 66 983224 66
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 643.681> 464.062 54.6875<90.7125 807.725>
@@ -2483,30 +2484,30 @@ SplineSet
  620.3125 425 l 2
 EndSplineSet
 Validated: 1
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight zero
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight one
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight two
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight three
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight four
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight five
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight six
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight seven
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight eight
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight nine
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight zero percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight one percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight two percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight three percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight four percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight five percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight six percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight seven percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight eight percent
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight zero
 EndChar
 
 StartChar: battery_80_charging
-Encoding: 285 983240 67
+Encoding: 67 983240 67
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 390.625 515.625 643.681> 464.062 54.6875<90.7125 807.725>
@@ -2555,30 +2556,30 @@ SplineSet
  427.34375 198.4375 l 1
 EndSplineSet
 Validated: 1
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight zero underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight one underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight two underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight three underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight four underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight five underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight six underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight seven underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight eight underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight nine underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight zero percent underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight one percent underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight two percent underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight three percent underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight four percent underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight five percent underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight six percent underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight seven percent underscore c h a r g i n g
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight eight percent underscore c h a r g i n g
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight nine percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight eight percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight seven percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight six percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight five percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight four percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight three percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight two percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight one percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight zero percent underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight nine underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight eight underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight seven underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight six underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight five underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight four underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight three underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight two underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight one underscore c h a r g i n g
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore eight zero underscore c h a r g i n g
 EndChar
 
 StartChar: battery_90
-Encoding: 286 983225 68
+Encoding: 68 983225 68
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 708.525> 464.062 54.6875<90.7125 807.725>
@@ -2620,30 +2621,30 @@ SplineSet
  685.15625 425 l 2
 EndSplineSet
 Validated: 1
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine zero
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine one
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine two
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine three
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine four
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine five
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine six
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine seven
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine eight
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine nine
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine zero percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine one percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine two percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine three percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine four percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine five percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine six percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine seven percent
-Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine eight percent
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine nine percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine eight percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine seven percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine six percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine five percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine four percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine three percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine two percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine one percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine zero percent
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine zero
 EndChar
 
 StartChar: battery_90_charging
-Encoding: 287 983241 69
+Encoding: 69 983241 69
 Width: 1000
 VWidth: 0
 HStem: 81.25 54.6875<90.7125 807.725> 175 250<125.069 390.625 515.625 708.525> 464.062 54.6875<90.7125 807.725>
@@ -2712,6 +2713,351 @@ Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine 
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine seven percent underscore c h a r g i n g
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine eight percent underscore c h a r g i n g
 Ligature2: "'liga' Standard Ligatures lookup 0-1" b a t t e r y underscore nine nine percent underscore c h a r g i n g
+EndChar
+
+StartChar: notifications
+Encoding: 70 983280 70
+Width: 1000
+HStem: -90.625 103.516<461.599 537.903>
+VStem: 452.539 95.3125<623.773 682.605>
+LayerCount: 2
+Fore
+SplineSet
+499.8046875 -90.625 m 0
+ 438.8671875 -90.625 405.6640625 -47.65625 405.6640625 12.890625 c 1
+ 593.75 12.890625 l 1
+ 593.75 -47.65625 560.546875 -90.625 499.8046875 -90.625 c 0
+804.6875 112.109375 m 0
+ 824.0234375 86.71875 805.6640625 50 773.828125 50 c 2
+ 500.9765625 50 l 1
+ 226.7578125 50 l 2
+ 194.7265625 50 176.3671875 86.5234375 195.703125 112.109375 c 0
+ 225.78125 151.953125 284.9609375 175 284.9609375 352.5390625 c 0
+ 284.9609375 534.765625 365.234375 607.8125 440.4296875 625.5859375 c 0
+ 447.4609375 627.34375 452.5390625 629.8828125 452.5390625 637.109375 c 2
+ 452.5390625 642.7734375 l 2
+ 452.5390625 668.9453125 474.0234375 691.2109375 500.1953125 690.8203125 c 0
+ 526.3671875 691.015625 547.8515625 668.9453125 547.8515625 642.7734375 c 2
+ 547.8515625 637.109375 l 2
+ 547.8515625 629.6875 552.9296875 627.34375 559.9609375 625.5859375 c 0
+ 634.9609375 608.0078125 715.4296875 534.765625 715.4296875 352.5390625 c 0
+ 715.4296875 175 774.609375 151.7578125 804.6875 112.109375 c 0
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" n o t i f i c a t i o n s
+LCarets2: 12 0 0 0 0 0 0 0 0 0 0 0 0
+EndChar
+
+StartChar: notifications_off
+Encoding: 71 983281 71
+Width: 1000
+HStem: -90.625 103.516<461.599 537.903>
+VStem: 452.539 95.3125<623.773 682.605>
+LayerCount: 2
+Fore
+SplineSet
+499.8046875 -90.625 m 0
+ 438.8671875 -90.625 405.6640625 -47.65625 405.6640625 12.890625 c 1
+ 593.75 12.890625 l 1
+ 593.75 -47.65625 560.546875 -90.625 499.8046875 -90.625 c 0
+301.7578125 692.578125 m 2
+ 746.2890625 -64.84375 l 2
+ 754.1015625 -77.9296875 749.609375 -94.921875 736.328125 -102.5390625 c 0
+ 731.8359375 -105.078125 726.953125 -106.25 722.265625 -106.25 c 0
+ 712.6953125 -106.25 703.3203125 -101.3671875 698.2421875 -92.578125 c 2
+ 253.90625 664.84375 l 2
+ 246.09375 677.9296875 250.5859375 694.921875 263.8671875 702.5390625 c 0
+ 268.1640625 704.8828125 272.8515625 706.25 277.34375 706.25 c 0
+ 277.5390625 706.25 277.734375 706.25 277.9296875 706.25 c 0
+ 278.515625 706.25 279.1015625 706.25 279.6875 706.25 c 1
+ 279.4921875 706.25 279.296875 706.25 279.1015625 706.25 c 1
+ 288.0859375 705.859375 296.875 700.9765625 301.7578125 692.578125 c 2
+578.3203125 50 m 1
+ 500.5859375 50 l 1
+ 226.3671875 50 l 2
+ 194.3359375 50 175.9765625 86.5234375 195.3125 112.109375 c 0
+ 225.390625 151.953125 284.5703125 175 284.5703125 352.5390625 c 0
+ 284.5703125 416.2109375 294.53125 466.6015625 310.546875 506.0546875 c 1
+ 578.3203125 50 l 1
+804.6875 112.109375 m 0
+ 824.0234375 86.71875 805.6640625 50 773.4375 50 c 2
+ 715.0390625 50 l 1
+ 389.84375 604.4921875 l 1
+ 406.25 614.84375 423.4375 621.6796875 440.4296875 625.5859375 c 0
+ 447.4609375 627.34375 452.5390625 629.8828125 452.5390625 637.109375 c 2
+ 452.5390625 642.7734375 l 2
+ 452.5390625 668.9453125 474.0234375 691.2109375 500.1953125 690.8203125 c 0
+ 526.3671875 691.015625 547.8515625 668.9453125 547.8515625 642.7734375 c 2
+ 547.8515625 637.109375 l 2
+ 547.8515625 629.6875 552.9296875 627.34375 559.9609375 625.5859375 c 0
+ 634.9609375 608.0078125 715.4296875 534.765625 715.4296875 352.5390625 c 0
+ 715.4296875 175 774.609375 151.7578125 804.6875 112.109375 c 0
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" n o t i f i c a t i o n s underscore o f f
+Ligature2: "'liga' Standard Ligatures lookup 0-1" n o t i f i c a t i o n s underscore m u t e
+EndChar
+
+StartChar: notifications_none
+Encoding: 72 983282 72
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+565.8203125 12.890625 m 1
+ 565.8203125 12.890625 l 1
+ 582.03125 12.890625 594.140625 -2.34375 590.625 -18.1640625 c 0
+ 580.859375 -61.9140625 549.609375 -90.625 499.8046875 -90.625 c 0
+ 450 -90.625 418.75 -61.71875 408.984375 -18.1640625 c 0
+ 405.46875 -2.34375 417.3828125 12.890625 433.7890625 12.890625 c 1
+ 433.7890625 12.890625 l 1
+ 445.703125 12.890625 456.0546875 4.6875 458.59375 -7.03125 c 0
+ 460.546875 -15.8203125 463.8671875 -23.046875 468.359375 -28.3203125 c 0
+ 470.8984375 -31.0546875 478.3203125 -39.84375 499.8046875 -39.84375 c 0
+ 521.2890625 -39.84375 528.7109375 -31.25 531.25 -28.3203125 c 0
+ 535.7421875 -23.046875 539.0625 -15.8203125 541.015625 -7.03125 c 0
+ 543.5546875 4.6875 553.90625 12.890625 565.8203125 12.890625 c 1
+804.6875 112.109375 m 0
+ 823.828125 86.71875 805.6640625 50 774.21875 50 c 2
+ 501.3671875 50 l 1
+ 227.1484375 50 l 2
+ 195.1171875 50 176.7578125 86.5234375 196.09375 112.109375 c 0
+ 226.171875 151.953125 285.3515625 175 285.3515625 352.5390625 c 0
+ 285.3515625 534.765625 365.625 607.8125 440.8203125 625.5859375 c 0
+ 447.8515625 627.34375 452.9296875 629.8828125 452.9296875 637.109375 c 2
+ 452.9296875 642.7734375 l 2
+ 452.9296875 668.75 474.0234375 690.8203125 499.8046875 690.8203125 c 0
+ 500 690.8203125 500.1953125 690.8203125 500.390625 690.8203125 c 0
+ 500.5859375 690.8203125 500.78125 690.8203125 500.9765625 690.8203125 c 0
+ 526.7578125 690.8203125 547.8515625 668.75 547.8515625 642.7734375 c 2
+ 547.8515625 637.109375 l 2
+ 547.8515625 629.6875 552.9296875 627.34375 559.9609375 625.5859375 c 0
+ 634.9609375 608.0078125 715.4296875 534.765625 715.4296875 352.5390625 c 0
+ 715.4296875 175 774.609375 151.7578125 804.6875 112.109375 c 0
+728.515625 100.78125 m 2
+ 735.3515625 100.78125 738.8671875 108.7890625 734.5703125 114.0625 c 0
+ 720.703125 129.6875 705.2734375 150.5859375 692.578125 180.2734375 c 0
+ 673.828125 224.4140625 664.6484375 280.859375 664.6484375 352.5390625 c 0
+ 664.6484375 425.390625 650.9765625 482.421875 623.828125 522.0703125 c 0
+ 599.609375 557.6171875 569.3359375 571.09375 548.2421875 575.9765625 c 0
+ 534.9609375 579.1015625 521.484375 585.7421875 511.5234375 596.875 c 0
+ 505.2734375 603.90625 494.53125 603.515625 488.28125 596.484375 c 0
+ 480.078125 587.3046875 468.359375 579.8828125 451.953125 575.9765625 c 0
+ 430.859375 571.09375 400.5859375 557.6171875 376.3671875 522.0703125 c 0
+ 349.21875 482.421875 335.546875 425.390625 335.546875 352.5390625 c 0
+ 335.546875 280.859375 326.3671875 224.4140625 307.6171875 180.2734375 c 0
+ 295.3125 151.171875 280.2734375 130.6640625 266.6015625 115.0390625 c 0
+ 261.71875 109.375 265.625 100.78125 273.046875 100.78125 c 2
+ 728.515625 100.78125 l 2
+565.8203125 12.890625 m 1
+ 565.8203125 12.890625 l 1
+ 582.03125 12.890625 594.140625 -2.34375 590.625 -18.1640625 c 0
+ 580.859375 -61.9140625 549.609375 -90.625 499.8046875 -90.625 c 0
+ 450 -90.625 418.75 -61.71875 408.984375 -18.1640625 c 0
+ 405.46875 -2.34375 417.3828125 12.890625 433.7890625 12.890625 c 1
+ 433.7890625 12.890625 l 1
+ 445.703125 12.890625 456.0546875 4.6875 458.59375 -7.03125 c 0
+ 460.546875 -15.8203125 463.8671875 -23.046875 468.359375 -28.3203125 c 0
+ 470.8984375 -31.0546875 478.3203125 -39.84375 499.8046875 -39.84375 c 0
+ 521.2890625 -39.84375 528.7109375 -31.25 531.25 -28.3203125 c 0
+ 535.7421875 -23.046875 539.0625 -15.8203125 541.015625 -7.03125 c 0
+ 543.5546875 4.6875 553.90625 12.890625 565.8203125 12.890625 c 1
+804.6875 112.109375 m 0
+ 823.828125 86.71875 805.6640625 50 774.21875 50 c 2
+ 501.3671875 50 l 1
+ 227.1484375 50 l 2
+ 195.1171875 50 176.7578125 86.5234375 196.09375 112.109375 c 0
+ 226.171875 151.953125 285.3515625 175 285.3515625 352.5390625 c 0
+ 285.3515625 534.765625 365.625 607.8125 440.8203125 625.5859375 c 0
+ 447.8515625 627.34375 452.9296875 629.8828125 452.9296875 637.109375 c 2
+ 452.9296875 642.7734375 l 2
+ 452.9296875 668.75 474.0234375 690.8203125 499.8046875 690.8203125 c 0
+ 500 690.8203125 500.1953125 690.8203125 500.390625 690.8203125 c 0
+ 500.5859375 690.8203125 500.78125 690.8203125 500.9765625 690.8203125 c 0
+ 526.7578125 690.8203125 547.8515625 668.75 547.8515625 642.7734375 c 2
+ 547.8515625 637.109375 l 2
+ 547.8515625 629.6875 552.9296875 627.34375 559.9609375 625.5859375 c 0
+ 634.9609375 608.0078125 715.4296875 534.765625 715.4296875 352.5390625 c 0
+ 715.4296875 175 774.609375 151.7578125 804.6875 112.109375 c 0
+728.515625 100.78125 m 2
+ 735.3515625 100.78125 738.8671875 108.7890625 734.5703125 114.0625 c 0
+ 720.703125 129.6875 705.2734375 150.5859375 692.578125 180.2734375 c 0
+ 673.828125 224.4140625 664.6484375 280.859375 664.6484375 352.5390625 c 0
+ 664.6484375 425.390625 650.9765625 482.421875 623.828125 522.0703125 c 0
+ 599.609375 557.6171875 569.3359375 571.09375 548.2421875 575.9765625 c 0
+ 534.9609375 579.1015625 521.484375 585.7421875 511.5234375 596.875 c 0
+ 505.2734375 603.90625 494.53125 603.515625 488.28125 596.484375 c 0
+ 480.078125 587.3046875 468.359375 579.8828125 451.953125 575.9765625 c 0
+ 430.859375 571.09375 400.5859375 557.6171875 376.3671875 522.0703125 c 0
+ 349.21875 482.421875 335.546875 425.390625 335.546875 352.5390625 c 0
+ 335.546875 280.859375 326.3671875 224.4140625 307.6171875 180.2734375 c 0
+ 295.3125 151.171875 280.2734375 130.6640625 266.6015625 115.0390625 c 0
+ 261.71875 109.375 265.625 100.78125 273.046875 100.78125 c 2
+ 728.515625 100.78125 l 2
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" n o t i f i c a t i o n s underscore n o n e
+LCarets2: 4 0 0 0 0
+EndChar
+
+StartChar: moon
+Encoding: 73 983283 73
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+783.984375 108.203125 m 0
+ 801.171875 108.984375 817.96875 109.1796875 834.5703125 112.5 c 0
+ 841.2109375 113.671875 846.09375 106.4453125 842.578125 100.5859375 c 0
+ 833.0078125 84.9609375 822.265625 72.0703125 810.546875 58.0078125 c 0
+ 742.3828125 -23.4375 640.8203125 -75 527.5390625 -75 c 0
+ 322.4609375 -75 156.25 93.75 156.25 301.953125 c 0
+ 156.25 470.5078125 263.8671875 613.4765625 415.8203125 661.71875 c 0
+ 440.234375 669.3359375 458.203125 673.2421875 469.921875 675 c 0
+ 476.5625 676.171875 481.25 668.75 477.5390625 663.0859375 c 0
+ 469.140625 649.8046875 457.03125 630.2734375 450.9765625 617.3828125 c 0
+ 428.7109375 570.1171875 416.796875 517.7734375 416.796875 463.671875 c 0
+ 416.796875 368.5546875 453.125 279.296875 519.3359375 212.109375 c 0
+ 585.3515625 144.7265625 673.4375 107.8125 766.9921875 107.8125 c 0
+ 772.65625 107.8125 778.3203125 108.0078125 783.984375 108.203125 c 0
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" m o o n
+EndChar
+
+StartChar: infinite
+Encoding: 74 983284 74
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+892.1875 443.75 m 0
+ 931.4453125 405.46875 953.125 354.296875 952.734375 299.8046875 c 0
+ 952.734375 245.3125 931.0546875 194.3359375 891.6015625 156.0546875 c 0
+ 852.5390625 117.7734375 800.390625 96.6796875 744.7265625 96.6796875 c 0
+ 689.453125 96.6796875 637.3046875 117.7734375 597.8515625 156.0546875 c 2
+ 352.734375 395.3125 l 2
+ 326.3671875 420.8984375 291.6015625 434.9609375 254.4921875 434.9609375 c 0
+ 217.3828125 434.9609375 182.6171875 420.8984375 156.25 395.3125 c 0
+ 130.2734375 369.921875 115.8203125 336.1328125 115.8203125 300.1953125 c 0
+ 115.8203125 264.0625 130.078125 230.078125 156.25 204.4921875 c 0
+ 182.6171875 178.90625 217.3828125 164.84375 254.4921875 164.84375 c 0
+ 291.6015625 164.84375 326.3671875 178.90625 352.734375 204.4921875 c 2
+ 413.28125 262.890625 l 2
+ 416.40625 265.8203125 421.2890625 265.8203125 424.21875 262.890625 c 2
+ 462.109375 225.9765625 l 2
+ 465.234375 223.046875 465.234375 217.96875 462.109375 214.84375 c 2
+ 401.5625 156.25 l 2
+ 362.5 117.96875 310.3515625 96.875 254.6875 96.875 c 0
+ 199.21875 96.875 146.875 117.96875 107.8125 156.25 c 0
+ 68.5546875 194.53125 46.875 245.703125 46.875 300 c 0
+ 46.875 354.4921875 68.5546875 405.46875 107.8125 443.75 c 0
+ 146.875 482.03125 199.0234375 503.125 254.6875 503.125 c 0
+ 309.9609375 503.125 362.109375 482.03125 401.5625 443.75 c 2
+ 646.875 204.6875 l 2
+ 673.2421875 179.1015625 708.0078125 165.0390625 745.1171875 165.0390625 c 0
+ 782.2265625 165.0390625 816.9921875 179.1015625 843.359375 204.6875 c 0
+ 869.3359375 229.8828125 883.7890625 263.8671875 883.7890625 299.8046875 c 0
+ 883.7890625 335.9375 869.53125 369.921875 843.359375 395.5078125 c 0
+ 816.9921875 421.09375 782.2265625 435.15625 745.1171875 435.15625 c 0
+ 708.0078125 435.15625 673.2421875 421.09375 646.875 395.5078125 c 2
+ 586.328125 336.71875 l 2
+ 583.203125 333.7890625 578.3203125 333.7890625 575.390625 336.71875 c 2
+ 537.5 374.0234375 l 2
+ 534.375 376.953125 534.375 382.03125 537.5 385.15625 c 2
+ 598.4375 443.75 l 2
+ 637.5 482.03125 689.6484375 503.125 745.3125 503.125 c 0
+ 800.78125 503.125 853.125 482.03125 892.1875 443.75 c 0
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" i n f i n i t e
+EndChar
+
+StartChar: eye
+Encoding: 75 983285 75
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+499.609375 581.25 m 0
+ 686.5234375 581.25 828.125 444.921875 930.46875 320.8984375 c 0
+ 940.4296875 308.984375 939.84375 291.796875 929.4921875 280.46875 c 0
+ 829.1015625 170.5078125 687.890625 18.75 499.609375 18.75 c 0
+ 308.984375 18.75 197.265625 139.2578125 70.5078125 279.296875 c 0
+ 59.765625 291.2109375 59.9609375 308.984375 70.703125 320.8984375 c 0
+ 218.75 482.421875 342.578125 581.25 499.609375 581.25 c 0
+508.203125 124.4140625 m 0
+ 598.4375 128.515625 671.484375 201.5625 675.5859375 291.796875 c 0
+ 680.46875 395.1171875 595.3125 480.2734375 491.796875 475.5859375 c 0
+ 401.5625 471.484375 328.515625 398.4375 324.4140625 308.203125 c 0
+ 319.53125 204.8828125 404.6875 119.7265625 508.203125 124.4140625 c 0
+500 391.796875 m 0
+ 500 341.2109375 540.0390625 300 589.2578125 300 c 0
+ 601.953125 300 613.8671875 302.734375 624.8046875 307.6171875 c 1
+ 624.8046875 305.078125 625 302.5390625 625 300 c 0
+ 625 227.9296875 563.671875 169.921875 490.4296875 175.390625 c 0
+ 429.296875 180.078125 380.078125 229.296875 375.390625 290.4296875 c 0
+ 369.921875 363.671875 427.9296875 425 500 425 c 0
+ 502.1484375 425 504.1015625 424.8046875 506.0546875 424.8046875 c 1
+ 502.1484375 414.6484375 500 403.515625 500 391.796875 c 0
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" e y e
+LCarets2: 2 0 0
+EndChar
+
+StartChar: eye_off
+Encoding: 76 983286 76
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+172.4609375 666.9921875 m 2
+ 866.796875 -27.734375 l 2
+ 877.5390625 -38.4765625 877.5390625 -56.0546875 866.796875 -66.796875 c 0
+ 863.28125 -70.3125 858.984375 -72.8515625 854.296875 -74.0234375 c 0
+ 845.1171875 -76.5625 834.765625 -74.21875 827.5390625 -66.9921875 c 2
+ 133.203125 627.734375 l 2
+ 122.4609375 638.4765625 122.4609375 656.0546875 133.203125 666.796875 c 0
+ 143.9453125 677.734375 161.5234375 677.734375 172.4609375 666.9921875 c 2
+508.203125 124.4140625 m 0
+ 532.03125 125.5859375 554.6875 131.4453125 575.390625 141.2109375 c 1
+ 660.3515625 56.25 l 1
+ 611.1328125 33.203125 557.6171875 18.75 499.609375 18.75 c 0
+ 308.984375 18.75 197.265625 139.2578125 70.5078125 279.296875 c 0
+ 59.765625 291.2109375 59.9609375 308.984375 70.703125 320.8984375 c 0
+ 128.7109375 384.1796875 182.8125 437.890625 236.9140625 479.6875 c 1
+ 341.2109375 375.1953125 l 1
+ 331.4453125 354.6875 325.5859375 332.03125 324.4140625 308.203125 c 0
+ 319.53125 204.8828125 404.6875 119.7265625 508.203125 124.4140625 c 0
+929.296875 280.46875 m 0
+ 883.0078125 229.4921875 827.734375 169.7265625 763.28125 120.3125 c 1
+ 658.7890625 224.8046875 l 1
+ 668.5546875 245.3125 674.4140625 267.96875 675.5859375 291.796875 c 0
+ 680.46875 395.1171875 595.3125 480.2734375 491.796875 475.5859375 c 0
+ 467.96875 474.609375 445.3125 468.5546875 424.8046875 458.7890625 c 1
+ 339.453125 544.140625 l 1
+ 390.234375 568.359375 442.7734375 581.25 499.609375 581.25 c 0
+ 686.5234375 581.25 828.125 444.921875 930.2734375 320.8984375 c 0
+ 940.234375 308.984375 939.6484375 291.796875 929.296875 280.46875 c 0
+375.390625 290.4296875 m 0
+ 374.21875 306.4453125 375.9765625 321.875 380.2734375 336.328125 c 1
+ 536.1328125 180.46875 l 1
+ 521.875 175.9765625 506.4453125 174.21875 490.4296875 175.390625 c 0
+ 429.296875 180.078125 380.078125 229.296875 375.390625 290.4296875 c 0
+625 300 m 0
+ 625 287.5 623.046875 275.1953125 619.53125 263.671875 c 1
+ 583.203125 300.1953125 l 1
+ 585.15625 300 587.109375 300 589.2578125 300 c 0
+ 601.953125 300 613.8671875 302.734375 624.8046875 307.6171875 c 1
+ 624.8046875 305.078125 625 302.5390625 625 300 c 0
+500 391.796875 m 0
+ 500 388.8671875 500.1953125 385.9375 500.390625 383.0078125 c 1
+ 463.8671875 419.53125 l 1
+ 475.390625 423.046875 487.5 425 500 425 c 0
+ 502.1484375 425 504.1015625 424.8046875 506.0546875 424.8046875 c 1
+ 502.1484375 414.6484375 500 403.515625 500 391.796875 c 0
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures lookup 0-1" e y e underscore o f f
 EndChar
 EndChars
 EndSplineFont
