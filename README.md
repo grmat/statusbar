@@ -50,14 +50,16 @@ The following configuration in i3status will work for `otf-statusbar`:
 | ![preview](icons/battery-90-charging.svg)  | battery_90_charging  | battery_99_charging..battery_99_charging       | 0xF00C9       |
 | ![preview](icons/battery-100-charging.svg) | battery_100_charging | battery_100_full                               | 0xF00CA       |
 
-## Wifi
+## Wireless
 
 | icon                             | ligature   | alternative ligatures (range_start..range_end) | unicode (hex) |
 | ---                              | ---        | ---                                            | ---           |
-| ![preview](icons/wifi-off.svg)   | wifi_off   |                                                | 0xF00A0       |
+| ![preview](icons/wifi-off.svg)   | wifi_off   | airplane_mode                                  | 0xF00A0       |
 | ![preview](icons/wifi-bar-1.svg) | wifi_bar_1 | wifi_signal_0..wifi_signal_33                  | 0xF00A1       |
 | ![preview](icons/wifi-bar-2.svg) | wifi_bar_2 | wifi_signal_34..wifi_signal_66                 | 0xF00A2       |
 | ![preview](icons/wifi-bar-3.svg) | wifi_bar_3 | wifi_signal_67..wifi_signal_100                | 0xF00A3       |
+| ![preview](icons/bluetooth.svg)  | bluetooth  |                                                | 0xF00AB       |
+| ![preview](icons/cellular.svg)   | cellular   |                                                | 0xF00AC       |
 
 ## Volume
 
@@ -84,14 +86,25 @@ The following configuration in i3status will work for `otf-statusbar`:
 | ![preview](icons/notifications-off.svg)     | notifications_off  | notifications_mute    | 0xF00F1       |
 | ![preview](icons/notifications-outline.svg) | notifications_none |                       | 0xF00F2       |
 
+## Mail
+
+| icon                              | ligature    | alternative ligatures | unicode (hex) |
+| ---                               | ---         | ---                   | ---           |
+| ![preview](icons/mail.svg)        | mail        |                       | 0xF00F3       |
+| ![preview](icons/mail-unread.svg) | mail_unread |                       | 0xF00F4       |
+| ![preview](icons/mail-open.svg)   | mail_open   |                       | 0xF00F5       |
+
 ## Misc
 
-| icon                           | ligature | alternative ligatures | unicode (hex) |
-| ---                            | ---      | ---                   | ---           |
-| ![preview](icons/moon.svg)     | moon     |                       | 0xF00F3       |
-| ![preview](icons/infinite.svg) | infinity |                       | 0xF00F4       |
-| ![preview](icons/eye.svg)      | eye      |                       | 0xF00F5       |
-| ![preview](icons/eye-off.svg)  | eye_off  |                       | 0xF00F6       |
+| icon                                   | ligature         | alternative ligatures | unicode (hex) |
+| ---                                    | ---              | ---                   | ---           |
+| ![preview](icons/moon.svg)             | moon             |                       | 0xFF000       |
+| ![preview](icons/infinite.svg)         | infinity         |                       | 0xF0001       |
+| ![preview](icons/eye.svg)              | eye              |                       | 0xF0002       |
+| ![preview](icons/eye-off.svg)          | eye_off          |                       | 0xF0003       |
+| ![preview](icons/crop.svg)             | crop             |                       | 0xF0004       |
+| ![preview](icons/radio-button-on.svg)  | radio_button_on  |                       | 0xF0005       |
+| ![preview](icons/radio-button-off.svg) | radio_button_off |                       | 0xF0006       |
 
 
 # Credits
