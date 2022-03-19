@@ -70,6 +70,19 @@ The following configuration in i3status will work for `otf-statusbar`:
 | ![preview](icons/volume-2.svg) | volume_bar_2 | volume_34..volume_66(%)?                       | 0xF00D2       |
 | ![preview](icons/volume-3.svg) | volume_bar_3 | volume_67..volume_100(%)?                      | 0xF00D3       |
 
+## Media
+
+| icon                                | ligature      | unicode (hex) |
+| ---                                 | ---           | ---           |
+| ![preview](icons/skip-backward.svg) | skip_backward | 0xF00D4       |
+| ![preview](icons/skip-forward.svg)  | skip_forward  | 0xF00D5       |
+| ![preview](icons/rewind.svg)        | rewind        | 0xF00D6       |
+| ![preview](icons/fastforward.svg)   | fastforward   | 0xF00D7       |
+| ![preview](icons/pause.svg)         | pause         | 0xF00D8       |
+| ![preview](icons/play.svg)          | play          | 0xF00D9       |
+| ![preview](icons/square.svg)        | stop          | 0xF00DA       |
+| ![preview](icons/shuffle.svg)       | shuffle       | 0xF00DB       |
+| ![preview](icons/repeat.svg)        | repeat        | 0xF00DC       |
 
 ## Microphone
 
