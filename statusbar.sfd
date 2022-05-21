@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1572312906
-ModificationTime: 1647713377
+ModificationTime: 1653142241
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -48,10 +48,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 25 20
+WinInfo: 0 25 4
 BeginPrivate: 0
 EndPrivate
-BeginChars: 94 94
+BeginChars: 98 98
 
 StartChar: battery_0
 Encoding: 38 983216 0
@@ -3759,6 +3759,144 @@ SplineSet
  847.65625 323.4375 l 1
 EndSplineSet
 Ligature2: "'liga' Standard Ligatures lookup 0-1" r e p e a t
+EndChar
+
+StartChar: cellular_bar_1
+Encoding: 94 983297 94
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+164 -52 m 2
+ 68 -52 l 2
+ 41.5078125 -52 20 -30.4921875 20 -4 c 2
+ 20 188 l 2
+ 20 214.4921875 41.5078125 236 68 236 c 2
+ 164 236 l 2
+ 190.4921875 236 212 214.4921875 212 188 c 2
+ 212 -4 l 2
+ 212 -30.4921875 190.4921875 -52 164 -52 c 2
+EndSplineSet
+LCarets2: 13 0 0 0 0 0 0 0 0 0 0 0 0 0
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore b a r underscore one
+EndChar
+
+StartChar: cellular_bar_2
+Encoding: 95 983298 95
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+420 -52 m 2
+ 324 -52 l 2
+ 297.5078125 -52 276 -30.4921875 276 -4 c 2
+ 276 316 l 2
+ 276 342.4921875 297.5078125 364 324 364 c 2
+ 420 364 l 2
+ 446.4921875 364 468 342.4921875 468 316 c 2
+ 468 -4 l 2
+ 468 -30.4921875 446.4921875 -52 420 -52 c 2
+164 -52 m 2
+ 68 -52 l 2
+ 41.5078125 -52 20 -30.4921875 20 -4 c 2
+ 20 188 l 2
+ 20 214.4921875 41.5078125 236 68 236 c 2
+ 164 236 l 2
+ 190.4921875 236 212 214.4921875 212 188 c 2
+ 212 -4 l 2
+ 212 -30.4921875 190.4921875 -52 164 -52 c 2
+EndSplineSet
+LCarets2: 13 0 0 0 0 0 0 0 0 0 0 0 0 0
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore b a r underscore two
+EndChar
+
+StartChar: cellular_bar_3
+Encoding: 96 983299 96
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+676 -52 m 2
+ 580 -52 l 2
+ 553.5078125 -52 532 -30.4921875 532 -4 c 2
+ 532 444 l 2
+ 532 470.4921875 553.5078125 492 580 492 c 2
+ 676 492 l 2
+ 702.4921875 492 724 470.4921875 724 444 c 2
+ 724 -4 l 2
+ 724 -30.4921875 702.4921875 -52 676 -52 c 2
+420 -52 m 2
+ 324 -52 l 2
+ 297.5078125 -52 276 -30.4921875 276 -4 c 2
+ 276 316 l 2
+ 276 342.4921875 297.5078125 364 324 364 c 2
+ 420 364 l 2
+ 446.4921875 364 468 342.4921875 468 316 c 2
+ 468 -4 l 2
+ 468 -30.4921875 446.4921875 -52 420 -52 c 2
+164 -52 m 2
+ 68 -52 l 2
+ 41.5078125 -52 20 -30.4921875 20 -4 c 2
+ 20 188 l 2
+ 20 214.4921875 41.5078125 236 68 236 c 2
+ 164 236 l 2
+ 190.4921875 236 212 214.4921875 212 188 c 2
+ 212 -4 l 2
+ 212 -30.4921875 190.4921875 -52 164 -52 c 2
+EndSplineSet
+LCarets2: 13 0 0 0 0 0 0 0 0 0 0 0 0 0
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore b a r underscore three
+EndChar
+
+StartChar: cellular_bar_4
+Encoding: 97 983300 97
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+932 -52 m 2
+ 836 -52 l 2
+ 809.5078125 -52 788 -30.4921875 788 -4 c 2
+ 788 604 l 2
+ 788 630.4921875 809.5078125 652 836 652 c 2
+ 932 652 l 2
+ 958.4921875 652 980 630.4921875 980 604 c 2
+ 980 -4 l 2
+ 980 -30.4921875 958.4921875 -52 932 -52 c 2
+676 -52 m 2
+ 580 -52 l 2
+ 553.5078125 -52 532 -30.4921875 532 -4 c 2
+ 532 444 l 2
+ 532 470.4921875 553.5078125 492 580 492 c 2
+ 676 492 l 2
+ 702.4921875 492 724 470.4921875 724 444 c 2
+ 724 -4 l 2
+ 724 -30.4921875 702.4921875 -52 676 -52 c 2
+420 -52 m 2
+ 324 -52 l 2
+ 297.5078125 -52 276 -30.4921875 276 -4 c 2
+ 276 316 l 2
+ 276 342.4921875 297.5078125 364 324 364 c 2
+ 420 364 l 2
+ 446.4921875 364 468 342.4921875 468 316 c 2
+ 468 -4 l 2
+ 468 -30.4921875 446.4921875 -52 420 -52 c 2
+164 -52 m 2
+ 68 -52 l 2
+ 41.5078125 -52 20 -30.4921875 20 -4 c 2
+ 20 188 l 2
+ 20 214.4921875 41.5078125 236 68 236 c 2
+ 164 236 l 2
+ 190.4921875 236 212 214.4921875 212 188 c 2
+ 212 -4 l 2
+ 212 -30.4921875 190.4921875 -52 164 -52 c 2
+EndSplineSet
+LCarets2: 6 0 0 0 0 0 0
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore b a r underscore four
 EndChar
 EndChars
 EndSplineFont
