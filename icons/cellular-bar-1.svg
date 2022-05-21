@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="512"
+   height="512"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="cellular-bar-1.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="0.66447632"
+     inkscape:cx="248.31585"
+     inkscape:cy="343.87982"
+     inkscape:window-width="1037"
+     inkscape:window-height="766"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 88,432 H 40 C 26.745166,432 16,421.25483 16,408 v -96 c 0,-13.25483 10.745166,-24 24,-24 h 48 c 13.25483,0 24,10.74517 24,24 v 96 c 0,13.25483 -10.74517,24 -24,24 z"
+     id="path2"
+     sodipodi:nodetypes="sssssssss" />
+</svg>
