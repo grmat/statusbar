@@ -57,6 +57,10 @@ Select the font to render the whole ligature phrase. See [Glyph overview](#glyph
 | ![preview](icons/wifi-bar-3.svg) | wifi_bar_3 | wifi_signal_67..wifi_signal_100                | 0xF00A3 |
 | ![preview](icons/bluetooth.svg)  | bluetooth  |                                                | 0xF00AB |
 | ![preview](icons/cellular.svg)   | cellular   |                                                | 0xF00AC |
+| ![▂      ](icons/cellular-bar-1.svg) | cellular_bar_1 | cellular_signal_1..cellular_signal_25  | 0xF0101 |
+| ![▂ ▄    ](icons/cellular-bar-2.svg) | cellular_bar_2 | cellular_signal_26..cellular_signal_50 | 0xF0102 |
+| ![▂ ▄ ▆  ](icons/cellular-bar-3.svg) | cellular_bar_3 | cellular_signal_51..cellular_signal_75 | 0xF0103 |
+| ![▂ ▄ ▆ █](icons/cellular-bar-4.svg) | cellular_bar_4 | cellular_signal_76..cellular_signal_100| 0xF0104 |
 
 ## Volume
 

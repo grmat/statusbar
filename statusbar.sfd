@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1572312906
-ModificationTime: 1647713377
+ModificationTime: 1653142241
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -48,10 +48,10 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 25 20
+WinInfo: 0 25 4
 BeginPrivate: 0
 EndPrivate
-BeginChars: 94 94
+BeginChars: 98 98
 
 StartChar: battery_0
 Encoding: 38 983216 0
@@ -3759,6 +3759,253 @@ SplineSet
  847.65625 323.4375 l 1
 EndSplineSet
 Ligature2: "'liga' Standard Ligatures lookup 0-1" r e p e a t
+EndChar
+
+StartChar: cellular_bar_1
+Encoding: 94 983297 94
+Width: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+164 -52 m 2
+ 68 -52 l 2
+ 41.5078125 -52 20 -30.4921875 20 -4 c 2
+ 20 188 l 2
+ 20 214.4921875 41.5078125 236 68 236 c 2
+ 164 236 l 2
+ 190.4921875 236 212 214.4921875 212 188 c 2
+ 212 -4 l 2
+ 212 -30.4921875 190.4921875 -52 164 -52 c 2
+EndSplineSet
+LCarets2: 13 0 0 0 0 0 0 0 0 0 0 0 0 0
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore b a r underscore one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore zero one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore zero two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore zero three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore zero four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore zero five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore zero six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore zero seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore zero eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore zero nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore one zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore one one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore one two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore one three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore one four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore one five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore one six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore one seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore one eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore one nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore two zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore two one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore two two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore two three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore two four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore two five
+EndChar
+
+StartChar: cellular_bar_2
+Encoding: 95 983298 95
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+420 -52 m 2
+ 324 -52 l 2
+ 297.5078125 -52 276 -30.4921875 276 -4 c 2
+ 276 316 l 2
+ 276 342.4921875 297.5078125 364 324 364 c 2
+ 420 364 l 2
+ 446.4921875 364 468 342.4921875 468 316 c 2
+ 468 -4 l 2
+ 468 -30.4921875 446.4921875 -52 420 -52 c 2
+164 -52 m 2
+ 68 -52 l 2
+ 41.5078125 -52 20 -30.4921875 20 -4 c 2
+ 20 188 l 2
+ 20 214.4921875 41.5078125 236 68 236 c 2
+ 164 236 l 2
+ 190.4921875 236 212 214.4921875 212 188 c 2
+ 212 -4 l 2
+ 212 -30.4921875 190.4921875 -52 164 -52 c 2
+EndSplineSet
+LCarets2: 13 0 0 0 0 0 0 0 0 0 0 0 0 0
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore b a r underscore two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore two six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore two seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore two eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore two nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore three zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore three one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore three two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore three three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore three four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore three five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore three six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore three seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore three eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore three nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore four zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore four one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore four two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore four three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore four four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore four five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore four six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore four seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore four eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore four nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore five zero
+EndChar
+
+StartChar: cellular_bar_3
+Encoding: 96 983299 96
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+676 -52 m 2
+ 580 -52 l 2
+ 553.5078125 -52 532 -30.4921875 532 -4 c 2
+ 532 444 l 2
+ 532 470.4921875 553.5078125 492 580 492 c 2
+ 676 492 l 2
+ 702.4921875 492 724 470.4921875 724 444 c 2
+ 724 -4 l 2
+ 724 -30.4921875 702.4921875 -52 676 -52 c 2
+420 -52 m 2
+ 324 -52 l 2
+ 297.5078125 -52 276 -30.4921875 276 -4 c 2
+ 276 316 l 2
+ 276 342.4921875 297.5078125 364 324 364 c 2
+ 420 364 l 2
+ 446.4921875 364 468 342.4921875 468 316 c 2
+ 468 -4 l 2
+ 468 -30.4921875 446.4921875 -52 420 -52 c 2
+164 -52 m 2
+ 68 -52 l 2
+ 41.5078125 -52 20 -30.4921875 20 -4 c 2
+ 20 188 l 2
+ 20 214.4921875 41.5078125 236 68 236 c 2
+ 164 236 l 2
+ 190.4921875 236 212 214.4921875 212 188 c 2
+ 212 -4 l 2
+ 212 -30.4921875 190.4921875 -52 164 -52 c 2
+EndSplineSet
+LCarets2: 13 0 0 0 0 0 0 0 0 0 0 0 0 0
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore b a r underscore three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore five one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore five two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore five three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore five four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore five five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore five six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore five seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore five eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore five nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore six zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore six one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore six two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore six three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore six four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore six five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore six six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore six seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore six eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore six nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore seven zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore seven one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore seven two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore seven three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore seven four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore seven five
+EndChar
+
+StartChar: cellular_bar_4
+Encoding: 97 983300 97
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+932 -52 m 2
+ 836 -52 l 2
+ 809.5078125 -52 788 -30.4921875 788 -4 c 2
+ 788 604 l 2
+ 788 630.4921875 809.5078125 652 836 652 c 2
+ 932 652 l 2
+ 958.4921875 652 980 630.4921875 980 604 c 2
+ 980 -4 l 2
+ 980 -30.4921875 958.4921875 -52 932 -52 c 2
+676 -52 m 2
+ 580 -52 l 2
+ 553.5078125 -52 532 -30.4921875 532 -4 c 2
+ 532 444 l 2
+ 532 470.4921875 553.5078125 492 580 492 c 2
+ 676 492 l 2
+ 702.4921875 492 724 470.4921875 724 444 c 2
+ 724 -4 l 2
+ 724 -30.4921875 702.4921875 -52 676 -52 c 2
+420 -52 m 2
+ 324 -52 l 2
+ 297.5078125 -52 276 -30.4921875 276 -4 c 2
+ 276 316 l 2
+ 276 342.4921875 297.5078125 364 324 364 c 2
+ 420 364 l 2
+ 446.4921875 364 468 342.4921875 468 316 c 2
+ 468 -4 l 2
+ 468 -30.4921875 446.4921875 -52 420 -52 c 2
+164 -52 m 2
+ 68 -52 l 2
+ 41.5078125 -52 20 -30.4921875 20 -4 c 2
+ 20 188 l 2
+ 20 214.4921875 41.5078125 236 68 236 c 2
+ 164 236 l 2
+ 190.4921875 236 212 214.4921875 212 188 c 2
+ 212 -4 l 2
+ 212 -30.4921875 190.4921875 -52 164 -52 c 2
+EndSplineSet
+LCarets2: 6 0 0 0 0 0 0
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore b a r underscore four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore seven six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore seven seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore seven eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore seven nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore eight zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore eight one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore eight two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore eight three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore eight four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore eight five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore eight six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore eight seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore eight eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore eight nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore nine zero
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore nine one
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore nine two
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore nine three
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore nine four
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore nine five
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore nine six
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore nine seven
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore nine eight
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore nine nine
+Ligature2: "'liga' Standard Ligatures lookup 0-1" c e l l u l a r underscore s i g n a l underscore one zero zero
 EndChar
 EndChars
 EndSplineFont
